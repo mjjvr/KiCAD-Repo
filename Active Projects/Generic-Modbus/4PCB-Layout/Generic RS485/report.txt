@@ -1,0 +1,1085 @@
+Info: Processing symbol 'AE1:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'C105:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'AE2:Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical'.
+Info: Processing symbol 'C106:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C107:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C108:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C109:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C110:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C111:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C112:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C113:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'Cb1:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'Cc1:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'Cc2:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'Cpn1:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-523'.
+Info: Processing symbol 'J16:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical'.
+Info: Processing symbol 'R16:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R17:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R18:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R19:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R20:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R21:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R22:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'L10:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'L11:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'L12:ul_74438357047:IND_357047_WRE'.
+Info: Processing symbol 'D3:LTC4015 Footprints:BZT52C15LP-7'.
+Info: Processing symbol 'Db1:LTC4015 Footprints:DIODE_1N4448HLP-7_DIO-L'.
+Info: Processing symbol 'H2:'.
+Info: Processing symbol 'H3:'.
+Info: Processing symbol 'H4:'.
+Info: Processing symbol 'C51:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C52:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C5:LTC4015 Footprints:CAP_0805N_AVX-L'.
+Info: Processing symbol 'C6:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'C7:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C8:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C9:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C10:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'C11:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R28:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C18:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C20:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C21:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C22:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C23:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C24:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C25:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C26:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C27:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C28:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C29:LTC4015 Footprints:G-31_MUR'.
+Info: Processing symbol 'C30:LTC4015 Footprints:CAP_PC_8X12_NCH-L'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:CP_Elec_5x5.4'.
+Info: Processing symbol 'C33:Capacitor_SMD:CP_Elec_5x5.4'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_1812_4532Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_1812_4532Metric'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'H5:'.
+Info: Processing symbol 'M1:LTC4015 Footprints:DMN65D8LFB-7B'.
+Info: Processing symbol 'J2:TerminalBlock_RND:TerminalBlock_RND_205-00005_1x06_P5.00mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:Connector_USB:USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles'.
+Info: Processing symbol 'M2:LTC4015 Footprints:DIODE_DMP58D0LFB-7_DIO'.
+Info: Processing symbol 'J18:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J19:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'JP1:'.
+Info: Processing symbol 'R27:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'JP2:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Processing symbol 'JP3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'JP4:Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels'.
+Info: Processing symbol 'JP5:Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels'.
+Info: Processing symbol 'JP6:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP19:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'JP20:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'L1:LTC4015 Footprints:XAL1010'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'L2:SRP5015TA-5R6M:INDPM5752X150N'.
+Info: Processing symbol 'L3:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'J7:TerminalBlock_RND:TerminalBlock_RND_205-00005_1x06_P5.00mm_Horizontal'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'M3:LTC4015 Footprints:FDMC8327L'.
+Info: Processing symbol 'M4:LTC4015 Footprints:WDFN8_3x3_ONS'.
+Info: Processing symbol 'M5:LTC4015 Footprints:MOSFET_0DN-T1-GE3_VIS'.
+Info: Processing symbol 'PS1:PWX-Footprints-SNAP:CONV_RS3K-2405SZ_H3'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R23:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C56:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C57:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'C58:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'C59:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'Q7:EL3H7(TA)-VG:SOIC_TA-VG-L'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'J9:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'L4:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'L5:Packetworx Footprints:0603_1608'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C61:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'C62:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R24:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R25:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R9:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'J10:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R10:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R26:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R11:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R12:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'L6:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'L7:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C63:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'C64:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'R30:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C65:Packetworx Symbol&Footprints:C_0603_1608Metric'.
+Info: Processing symbol 'R29:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C66:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'L8:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'C67:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'R13:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C68:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R14:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C70:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'R15:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'C72:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C73:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'J11:Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical'.
+Info: Processing symbol 'C80:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'J12:TerminalBlock_RND:TerminalBlock_RND_205-00005_1x06_P5.00mm_Horizontal'.
+Info: Processing symbol 'C81:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'J13:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'C83:Packetworx Footprints:100nF_0603'.
+Info: Processing symbol 'J14:Mikroe:CONN2X8_MIKROE-4248_MKE'.
+Info: Processing symbol 'C86:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C87:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C88:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A'.
+Info: Processing symbol 'C89:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C90:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C91:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C92:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C93:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C94:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C95:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C96:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C97:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A'.
+Info: Processing symbol 'C98:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C99:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C100:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C101:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C102:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C48:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C103:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C104:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R31:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R32:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R33:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R53:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R55:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R56:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R57:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R58:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R77:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R78:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'R79:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R80:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R81:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R83:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R84:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R85:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R86:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R87:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R88:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R89:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R90:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R91:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R92:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R93:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R94:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R95:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R96:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R97:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R98:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R99:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R108:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R109:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R110:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R111:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R112:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R113:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'Rc1:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'RC2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'Rccref1:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'Rntcbias1:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'Rntcbias2:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'RSNSB1:LTC4015 Footprints:RES_KRL3216T4-M-R003-F-T1'.
+Info: Processing symbol 'RSNSI1:LTC4015 Footprints:RES_KRL3216T4-M-R003-F-T1'.
+Info: Processing symbol 'Rt1:Packetworx Footprints:10K(0603)'.
+Info: Processing symbol 'S2:Packetworx Footprints:RF_SHIELD'.
+Info: Processing symbol 'SB1:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Processing symbol 'SIP1:ST50H:ACSIP ST50H'.
+Info: Processing symbol 'SW1:Packetworx Footprints:PTS820J20M'.
+Info: Processing symbol 'SW2:Packetworx Footprints:PTS820J20M'.
+Info: Processing symbol 'SW4:Packetworx Symbol&Footprints:PTS820J20M'.
+Info: Processing symbol 'TP1:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP2:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP4:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP5:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP6:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP7:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP8:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP9:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP10:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP11:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP12:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP13:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP14:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP15:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP16:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP17:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP18:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP19:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP20:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP21:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP22:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP23:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP24:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP25:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'U1:PWX-Footprints-SNAP:R_8_ADI-M'.
+Info: Processing symbol 'U2:PWX-Footprints-SNAP:DW0016B_N'.
+Info: Processing symbol 'U3:LTC4015 Footprints:SC-74A-5_1P65X3P15_ONS'.
+Info: Processing symbol 'U4:LTC4015 Footprints:LTC4015EUHF-PBF'.
+Info: Processing symbol 'U5:PWX-Footprints-SNAP:TPL5010DDCR'.
+Info: Processing symbol 'U6:PWX-Footprints-SNAP:TCK108AF_LF'.
+Info: Processing symbol 'U7:SHT40-AD1B-R2:SHT4X'.
+Info: Processing symbol 'U8:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U9:Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP6.4x6.4mm'.
+Info: Processing symbol 'U15:Package_TO_SOT_SMD:TSOT-23-5'.
+Info: Processing symbol 'U16:PWX-Footprints-SNAP:RW_20_ADI-M'.
+Info: Processing symbol 'U17:ul_AP64350SP-13:AP64350SP-13'.
+Info: Processing symbol 'U18:ul_AOZ1360AIL:AOZ1360AIL_AOS'.
+Info: Processing symbol 'U19:ul_TPS7B6750QPWPRQ1:PWP0020D_M'.
+Info: Processing symbol 'XTAL1:FC-12M 32.7680KA-A3:FC-12M 32.7680KA-A3_EPS-M'.
+Info: Processing symbol 'Y1:ABM8X-102-32.000MHZ-T:OSCSC320X250X100N'.
+Updated C45 sheetfile to 'ST50H.kicad_sch'.
+Updated C45 footprint filters to '0402_C'.
+Connected C45 pin 1 to GND2.
+Connected C45 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Added C46 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C46.
+Changed C46 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C46 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3f775ee2-da1c-4d73-807e-ba26e6e45ee3.
+Updated C46 fields.
+Updated C46 sheetname to 'ST50H & PERIPHERALS'.
+Updated C46 sheetfile to 'ST50H.kicad_sch'.
+Updated C46 footprint filters to '0402_C'.
+Connected C46 pin 1 to GND2.
+Connected C46 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Added C47 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C47.
+Changed C47 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C47 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/229a6797-79ac-4e10-9ac2-8db6bbfb23b7.
+Updated C47 fields.
+Updated C47 sheetname to 'ST50H & PERIPHERALS'.
+Updated C47 sheetfile to 'ST50H.kicad_sch'.
+Updated C47 footprint filters to '0402_C'.
+Connected C47 pin 1 to GND2.
+Connected C47 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Added C48 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C48.
+Changed C48 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C48 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/fde316d1-446c-4e37-9878-654c1bbf8f39.
+Updated C48 fields.
+Updated C48 sheetname to 'ST50H & PERIPHERALS'.
+Updated C48 sheetfile to 'ST50H.kicad_sch'.
+Updated C48 footprint filters to '0402_C'.
+Connected C48 pin 1 to GND2.
+Add net /ST50H & PERIPHERALS/13-VREF+.
+Connected C48 pin 2 to /ST50H & PERIPHERALS/13-VREF+.
+Added C49 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C49.
+Changed C49 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 4.7uF.
+Updated C49 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/686371ab-ead2-4920-b1c4-8dcea73691bb.
+Updated C49 fields.
+Updated C49 sheetname to 'ST50H & PERIPHERALS'.
+Updated C49 sheetfile to 'ST50H.kicad_sch'.
+Updated C49 footprint filters to '0402_C'.
+Add net /ST50H & PERIPHERALS/41-VFBSMPS.
+Connected C49 pin 2 to /ST50H & PERIPHERALS/41-VFBSMPS.
+Connected C49 pin 1 to GND2.
+Added C50 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C50.
+Changed C50 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C50 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/235ecb1e-bbf3-4361-b3ce-4653ea2aeee1.
+Updated C50 fields.
+Updated C50 sheetname to 'ST50H & PERIPHERALS'.
+Updated C50 sheetfile to 'ST50H.kicad_sch'.
+Updated C50 footprint filters to '0402_C'.
+Connected C50 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C50 pin 1 to GND2.
+Added C53 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C53.
+Changed C53 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 4.7uF.
+Updated C53 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/39d8b37b-a03f-42cf-9d04-045e07aa5770.
+Updated C53 fields.
+Updated C53 sheetname to 'ST50H & PERIPHERALS'.
+Updated C53 sheetfile to 'ST50H.kicad_sch'.
+Updated C53 footprint filters to '0402_C'.
+Connected C53 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C53 pin 1 to GND2.
+Added C54 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C54.
+Changed C54 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 4.3pF.
+Updated C54 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/1f3a896f-a16a-4d48-9fc0-0217625a6946.
+Updated C54 fields.
+Updated C54 sheetname to 'ST50H & PERIPHERALS'.
+Updated C54 sheetfile to 'ST50H.kicad_sch'.
+Updated C54 footprint filters to '0402_C'.
+Connected C54 pin 1 to GND2.
+Add net /ST50H & PERIPHERALS/3-PC14-OSC32_IN.
+Connected C54 pin 2 to /ST50H & PERIPHERALS/3-PC14-OSC32_IN.
+Added C55 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C55.
+Changed C55 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 4.3pF.
+Updated C55 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/8dedf507-9d37-4366-b95a-0fc44c415b1f.
+Updated C55 fields.
+Updated C55 sheetname to 'ST50H & PERIPHERALS'.
+Updated C55 sheetfile to 'ST50H.kicad_sch'.
+Updated C55 footprint filters to '0402_C'.
+Connected C55 pin 1 to GND2.
+Add net /ST50H & PERIPHERALS/4-PC14-OSC32_OUT.
+Connected C55 pin 2 to /ST50H & PERIPHERALS/4-PC14-OSC32_OUT.
+Added C60 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C60.
+Changed C60 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C60 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/48f711ad-333d-4beb-84cf-5f854c1ab85e.
+Updated C60 fields.
+Updated C60 sheetname to 'ST50H & PERIPHERALS'.
+Updated C60 sheetfile to 'ST50H.kicad_sch'.
+Updated C60 footprint filters to '0402_C'.
+Connected C60 pin 1 to GND2.
+Add net /ST50H & PERIPHERALS/8-NRST.
+Connected C60 pin 2 to /ST50H & PERIPHERALS/8-NRST.
+Added C62 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C62.
+Changed C62 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C62 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/e548a145-0bc9-4a6e-a4cc-5e314f5af125.
+Updated C62 fields.
+Updated C62 sheetname to 'ST50H & PERIPHERALS'.
+Updated C62 sheetfile to 'ST50H.kicad_sch'.
+Updated C62 footprint filters to '0402_C'.
+Connected C62 pin 1 to GND2.
+Connected C62 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C66 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C67 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C68 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C70 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C72 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C73 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C80 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C81 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected C83 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Added D1 (footprint 'Diode_SMD:D_SOD-523').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SOD-523 to BAT54KFILM.
+Updated D1 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/5a40cb07-ef5c-436e-beba-144e400a1334.
+Updated D1 fields.
+Updated D1 sheetname to 'ST50H & PERIPHERALS'.
+Updated D1 sheetfile to 'ST50H.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to /ST50H & PERIPHERALS/8-NRST.
+Updated H5 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/79a55f12-c861-41a2-a981-d6e0b25115e0.
+Added J6 (footprint 'Connector_USB:USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles').
+Changed REF** reference designator to J6.
+Changed J6 value from USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles to USB_B_Mini.
+Updated J6 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3a1028b1-71bb-44c3-b43f-1154adcf5cb5.
+Updated J6 fields.
+Updated J6 sheetname to 'ST50H & PERIPHERALS'.
+Updated J6 sheetfile to 'ST50H.kicad_sch'.
+Updated J6 footprint filters to 'USB*'.
+Connected J6 pin 4 to unconnected-(J6-ID-Pad4).
+Connected J6 pin 3 to /ST50H & PERIPHERALS/D+.
+Connected J6 pin 1 to 5V_READ.
+Connected J6 pin 2 to /ST50H & PERIPHERALS/D-.
+Connected J6 pin 5 to GND2.
+Connected J6 pin 6 to GND2.
+Connected J6 pin 6 to GND2.
+Added J8 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J8.
+Changed J8 value from PinHeader_1x03_P2.54mm_Vertical to CTRL.
+Updated J8 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/f273a6e7-8834-4b94-b9b3-f9c00863761a.
+Updated J8 sheetname to 'ST50H & PERIPHERALS'.
+Updated J8 sheetfile to 'ST50H.kicad_sch'.
+Connected J8 pin 3 to NRST.
+Connected J8 pin 2 to BOOT0.
+Connected J8 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Added J9 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J9.
+Changed J9 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated J9 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/2f167015-1324-4bbd-b1de-294e593f7634.
+Updated J9 sheetname to 'ST50H & PERIPHERALS'.
+Updated J9 sheetfile to 'ST50H.kicad_sch'.
+Updated J9 footprint filters to 'Connector*:*_1x??_*'.
+Connected J9 pin 2 to /ST50H & PERIPHERALS/PA11.
+Connected J9 pin 3 to /ST50H & PERIPHERALS/PA12.
+Connected J9 pin 4 to GND2.
+Connected J9 pin 1 to 5V_READ.
+Added J10 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed J10 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03_Socket.
+Updated J10 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3616f494-b1b9-4a84-a3a7-8b816151e798.
+Updated J10 sheetname to 'ST50H & PERIPHERALS'.
+Updated J10 sheetfile to 'ST50H.kicad_sch'.
+Updated J10 footprint filters to 'Connector*:*_1x??_*'.
+Connected J10 pin 3 to unconnected-(J10-Pin_3-Pad3).
+Connected J10 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Add net /ST50H & PERIPHERALS/5-PH3-BOOT0.
+Connected J10 pin 1 to /ST50H & PERIPHERALS/5-PH3-BOOT0.
+Added J16 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical').
+Changed REF** reference designator to J16.
+Changed J16 value from PinHeader_1x05_P2.54mm_Vertical to Conn_01x05_Pin.
+Updated J16 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/2819d856-0a82-4f1d-9b4a-4da21866669a.
+Updated J16 sheetname to 'ST50H & PERIPHERALS'.
+Updated J16 sheetfile to 'ST50H.kicad_sch'.
+Updated J16 footprint filters to 'Connector*:*_1x??_*'.
+Connected J16 pin 5 to GND2.
+Connected J16 pin 1 to 5V_READ.
+Connected J16 pin 4 to /ST50H & PERIPHERALS/PB3-SWO.
+Connected J16 pin 3 to /ST50H & PERIPHERALS/PA14-SWCLK.
+Connected J16 pin 2 to /ST50H & PERIPHERALS/PA13-SWDIO.
+Added L3 (footprint 'Packetworx Footprints:0603_1608').
+Changed R reference designator to L3.
+Changed L3 value from 0603_1608 to FCM 1608KF-601T03.
+Updated L3 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/02a54643-579d-41c4-9c79-947d2ce36ba6.
+Updated L3 fields.
+Updated L3 sheetname to 'ST50H & PERIPHERALS'.
+Updated L3 sheetfile to 'ST50H.kicad_sch'.
+Updated L3 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L3 pin 2 to /ST50H & PERIPHERALS/13-VREF+.
+Connected L3 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Added L5 (footprint 'Packetworx Footprints:0603_1608').
+Changed R reference designator to L5.
+Changed L5 value from 0603_1608 to 10uH.
+Updated L5 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/bb61d185-aa9d-4888-a4b0-965c574dd58c.
+Updated L5 fields.
+Updated L5 sheetname to 'ST50H & PERIPHERALS'.
+Updated L5 sheetfile to 'ST50H.kicad_sch'.
+Updated L5 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L5 pin 2 to /ST50H & PERIPHERALS/41-VFBSMPS.
+Add net /ST50H & PERIPHERALS/43-VLXSMPS.
+Connected L5 pin 1 to /ST50H & PERIPHERALS/43-VLXSMPS.
+Added L8 (footprint 'Inductor_SMD:L_0402_1005Metric').
+Changed REF** reference designator to L8.
+Changed L8 value from L_0402_1005Metric to 1.8mH.
+Updated L8 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/7b4dcfdb-1c34-4d2f-95e8-382cb9b6c6e1.
+Updated L8 fields.
+Updated L8 sheetname to 'ST50H & PERIPHERALS'.
+Updated L8 sheetfile to 'ST50H.kicad_sch'.
+Updated L8 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L8 pin 2 to Net-(AE2-Pad1).
+Add net /ST50H & PERIPHERALS/31-RF.
+Connected L8 pin 1 to /ST50H & PERIPHERALS/31-RF.
+Reconnected Q2 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Added R7 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0603_1608Metric to DNP.
+Updated R7 symbol association from  to /d4af80e1-845f-4a79-b83f-ffa6fba30b1f.
+Updated R7 sheetname to 'Root'.
+Updated R7 sheetfile to 'packetRFMS.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 2 to Net-(U2-OUTD).
+Connected R7 pin 1 to 3V3_OUT.
+Added R8 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0603_1608Metric to DNP.
+Updated R8 symbol association from  to /c533f2cb-0bc4-4555-8aff-1c185b593c75.
+Updated R8 fields.
+Updated R8 sheetname to 'Root'.
+Updated R8 sheetfile to 'packetRFMS.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 1 to 3V3_OUT.
+Connected R8 pin 2 to Net-(U2-EN2).
+Changed REF** reference designator to J10.
+Connected AE1 pin 2 to GND2.
+Added AE2 (footprint 'Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical').
+Changed REF** reference designator to AE2.
+Changed AE2 value from U.FL_Molex_MCRF_73412-0110_Vertical to U.FL.
+Updated AE2 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/68454c3f-fbc4-46c4-ba4a-b1f6c44abd01.
+Updated AE2 fields.
+Updated AE2 sheetname to 'ST50H & PERIPHERALS'.
+Updated AE2 sheetfile to 'ST50H.kicad_sch'.
+Updated AE2 footprint filters to 'SMA-Side'.
+Reconnected R39 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Connected AE2 pin 2 to GND2.
+Connected AE2 pin 2 to GND2.
+Connected AE2 pin 2 to GND2.
+Added R42 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R42.
+Changed R42 value from R_0603_1608Metric to 10k.
+Updated R42 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/def08465-1dac-4d3f-a964-5d9befa0daad.
+Updated R42 fields.
+Updated R42 sheetname to 'ST50H & PERIPHERALS'.
+Updated R42 sheetfile to 'ST50H.kicad_sch'.
+Updated R42 footprint filters to 'R_*'.
+Connected R42 pin 2 to GND2.
+Connected R42 pin 1 to BOOT0.
+Add net Net-(AE2-Pad1).
+Added R43 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R43.
+Changed R43 value from R_0402_1005Metric to 100K.
+Updated R43 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/412e9d16-1e41-4dd9-aea7-435464f42000.
+Updated R43 fields.
+Updated R43 sheetname to 'ST50H & PERIPHERALS'.
+Updated R43 sheetfile to 'ST50H.kicad_sch'.
+Updated R43 footprint filters to 'R_*'.
+Connected R43 pin 1 to /ST50H & PERIPHERALS/8-NRST.
+Connected R43 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected AE2 pin 1 to Net-(AE2-Pad1).
+Added R44 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R44.
+Changed R44 value from R_0402_1005Metric to 10K.
+Updated R44 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3c4d65ff-663a-4f33-b92c-db4cca4c81a0.
+Updated R44 fields.
+Updated R44 sheetname to 'ST50H & PERIPHERALS'.
+Updated R44 sheetfile to 'ST50H.kicad_sch'.
+Updated R44 footprint filters to 'R_*'.
+Connected R44 pin 1 to /ST50H & PERIPHERALS/5-PH3-BOOT0.
+Connected R44 pin 2 to GND2.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R45 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R45.
+Changed R45 value from R_0603_1608Metric to 1.6k.
+Updated R45 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3894f61c-2671-49c1-a0c6-0f4d6ab60eef.
+Updated R45 fields.
+Updated R45 sheetname to 'ST50H & PERIPHERALS'.
+Updated R45 sheetfile to 'ST50H.kicad_sch'.
+Updated R45 footprint filters to 'R_*'.
+Connected R45 pin 2 to Net-(C38-Pad1).
+Connected R45 pin 1 to /ST50H & PERIPHERALS/DRY_CON_IN2.
+Changed REF** reference designator to C3.
+Added R46 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R46.
+Changed R46 value from R_0603_1608Metric to 1.6k.
+Updated R46 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/dd20077d-6199-4870-9089-2a9ba22ce06d.
+Updated R46 fields.
+Updated R46 sheetname to 'ST50H & PERIPHERALS'.
+Updated R46 sheetfile to 'ST50H.kicad_sch'.
+Updated R46 footprint filters to 'R_*'.
+Connected R46 pin 2 to Net-(C39-Pad1).
+Connected R46 pin 1 to /ST50H & PERIPHERALS/DRY_CON_IN1.
+Changed C3 value from C_0603_1608Metric to 0.1uF.
+Added R47 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R47.
+Changed R47 value from R_0603_1608Metric to 4.7k.
+Updated R47 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/b1371fab-f601-41b2-a067-9e848a2d2201.
+Updated R47 fields.
+Updated R47 sheetname to 'ST50H & PERIPHERALS'.
+Updated R47 sheetfile to 'ST50H.kicad_sch'.
+Updated R47 footprint filters to 'R_*'.
+Connected R47 pin 1 to SCL.
+Connected R47 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C3 symbol association from  to /2e18fd5b-7d85-4506-b1cd-1b9d82c92d57.
+Added R48 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R48.
+Changed R48 value from R_0603_1608Metric to 4.7k.
+Updated R48 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/dc2af9e9-d320-4073-8960-cd4a6e577647.
+Updated R48 fields.
+Updated R48 sheetname to 'ST50H & PERIPHERALS'.
+Updated R48 sheetfile to 'ST50H.kicad_sch'.
+Updated R48 footprint filters to 'R_*'.
+Connected R48 pin 2 to /ST50H & PERIPHERALS/ANALOG_5V.
+Connected R48 pin 1 to 5V_READ.
+Updated C3 fields.
+Added R49 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R49.
+Changed R49 value from R_0603_1608Metric to 9k.
+Updated R49 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/efbe3405-2073-4f28-be34-3a30436516e1.
+Updated R49 fields.
+Updated R49 sheetname to 'ST50H & PERIPHERALS'.
+Updated R49 sheetfile to 'ST50H.kicad_sch'.
+Updated R49 footprint filters to 'R_*'.
+Connected R49 pin 2 to GND2.
+Connected R49 pin 1 to /ST50H & PERIPHERALS/ANALOG_5V.
+Updated C3 sheetname to 'Root'.
+Added R50 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R50.
+Changed R50 value from R_0603_1608Metric to 4.7k.
+Updated R50 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/65edaa53-5f28-4bd4-aeb5-10b7fe6087dd.
+Updated R50 fields.
+Updated R50 sheetname to 'ST50H & PERIPHERALS'.
+Updated R50 sheetfile to 'ST50H.kicad_sch'.
+Updated R50 footprint filters to 'R_*'.
+Connected R50 pin 1 to 3V3_OUT.
+Connected R50 pin 2 to /ST50H & PERIPHERALS/ANALOG_3V3.
+Updated C3 sheetfile to 'packetRFMS.kicad_sch'.
+Added R51 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R51.
+Changed R51 value from R_0603_1608Metric to 120k.
+Updated R51 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/f9212911-12e9-4174-97db-48f234645415.
+Updated R51 fields.
+Updated R51 sheetname to 'ST50H & PERIPHERALS'.
+Updated R51 sheetfile to 'ST50H.kicad_sch'.
+Updated R51 footprint filters to 'R_*'.
+Connected R51 pin 1 to /ST50H & PERIPHERALS/ANALOG_3V3.
+Connected R51 pin 2 to GND2.
+Updated C3 footprint filters to '0402_C'.
+Added R52 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R52.
+Changed R52 value from R_0603_1608Metric to 4.7k.
+Updated R52 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/1f074738-beb3-4fc3-88f0-a07406a957f9.
+Updated R52 fields.
+Updated R52 sheetname to 'ST50H & PERIPHERALS'.
+Updated R52 sheetfile to 'ST50H.kicad_sch'.
+Updated R52 footprint filters to 'R_*'.
+Connected R52 pin 2 to SDA.
+Connected R52 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C3 pin 2 to GND2.
+Added R53 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R53.
+Changed R53 value from R_0603_1608Metric to 0.
+Updated R53 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/de41fd57-b82d-4a61-981b-060274d9f187.
+Updated R53 fields.
+Updated R53 sheetname to 'ST50H & PERIPHERALS'.
+Updated R53 sheetfile to 'ST50H.kicad_sch'.
+Updated R53 footprint filters to 'R_*'.
+Add net Net-(U9-PC3).
+Connected R53 pin 2 to Net-(U9-PC3).
+Connected R53 pin 1 to /ST50H & PERIPHERALS/ACSIP-PC2-SERVICEPIN1.
+Connected C3 pin 1 to 3V3_OUT.
+Added R54 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R54.
+Changed R54 value from R_0603_1608Metric to 10K 5%.
+Updated R54 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/5afc05a5-aa84-41ce-a3e0-833e4efce7d7.
+Updated R54 fields.
+Updated R54 sheetname to 'ST50H & PERIPHERALS'.
+Updated R54 sheetfile to 'ST50H.kicad_sch'.
+Updated R54 footprint filters to 'R_*'.
+Connected R54 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Connected R54 pin 2 to PA5.
+Added C4 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Added R55 (footprint 'Packetworx Footprints:10K(0603)').
+Changed R1 reference designator to R55.
+Changed R55 value from 10K to 0.
+Updated R55 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/053ea660-186e-40b5-bfe4-4bb862d3af06.
+Updated R55 fields.
+Updated R55 sheetname to 'ST50H & PERIPHERALS'.
+Updated R55 sheetfile to 'ST50H.kicad_sch'.
+Updated R55 footprint filters to 'R_*'.
+Connected R55 pin 1 to Net-(C39-Pad1).
+Connected R55 pin 2 to PB5.
+Changed REF** reference designator to C4.
+Added R56 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R56.
+Changed R56 value from R_0603_1608Metric to 0.
+Updated R56 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/8678d45c-75e7-47e1-9ff8-9c529ad767a4.
+Updated R56 fields.
+Updated R56 sheetname to 'ST50H & PERIPHERALS'.
+Updated R56 sheetfile to 'ST50H.kicad_sch'.
+Updated R56 footprint filters to 'R_*'.
+Connected R56 pin 1 to /ST50H & PERIPHERALS/ACSIP-PC3-SERVICEPIN2.
+Add net Net-(U9-PC4).
+Connected R56 pin 2 to Net-(U9-PC4).
+Changed C4 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 100nF.
+Added R57 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R57.
+Changed R57 value from R_0603_1608Metric to 0.
+Updated R57 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/ecdfa9cb-5dac-4d31-ada4-3d24b32cf934.
+Updated R57 fields.
+Updated R57 sheetname to 'ST50H & PERIPHERALS'.
+Updated R57 sheetfile to 'ST50H.kicad_sch'.
+Updated R57 footprint filters to 'R_*'.
+Add net Net-(U9-PC5).
+Connected R57 pin 2 to Net-(U9-PC5).
+Connected R57 pin 1 to /ST50H & PERIPHERALS/ACSIP-PC4-SERVICEPIN3.
+Updated C4 symbol association from  to /28d6cb62-1c63-4145-ad37-d67c284865bf.
+Added R58 (footprint 'Packetworx Footprints:10K(0603)').
+Changed R1 reference designator to R58.
+Changed R58 value from 10K to 0.
+Updated R58 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/76af5969-59c2-4651-9a57-5c409432f743.
+Updated R58 fields.
+Updated R58 sheetname to 'ST50H & PERIPHERALS'.
+Updated R58 sheetfile to 'ST50H.kicad_sch'.
+Updated R58 footprint filters to 'R_*'.
+Connected R58 pin 1 to Net-(C38-Pad1).
+Connected R58 pin 2 to PB14.
+Updated C4 fields.
+Reconnected R72 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C4 sheetname to 'Root'.
+Added R74 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R74.
+Changed R74 value from R_0603_1608Metric to DNP.
+Updated R74 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/69317b3a-c297-486f-b4c1-c8a862c4e05f.
+Updated R74 fields.
+Updated R74 sheetname to 'ST50H & PERIPHERALS'.
+Updated R74 sheetfile to 'ST50H.kicad_sch'.
+Updated R74 footprint filters to 'R_*'.
+Connected R74 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected R74 pin 1 to /ST50H & PERIPHERALS/nSMBALERT.
+Updated C4 sheetfile to 'packetRFMS.kicad_sch'.
+Reconnected R77 pin 2 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to 3V3_OUT.
+Reconnected R79 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C4 pin 2 to GND2.
+Add net Net-(U4A-CSPM5).
+Connected C12 pin 1 to Net-(U4A-CSPM5).
+Added C38 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C38.
+Changed C38 value from C_0603_1608Metric to 10uF.
+Updated C38 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/52b25518-039b-4347-9e7e-cd2ec24218ea.
+Updated C38 fields.
+Updated C38 sheetname to 'ST50H & PERIPHERALS'.
+Updated C38 sheetfile to 'ST50H.kicad_sch'.
+Updated C38 footprint filters to '0402_C'.
+Connected C38 pin 2 to GND2.
+Connected C38 pin 1 to Net-(C38-Pad1).
+Added C39 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C39.
+Changed C39 value from C_0603_1608Metric to 10uF.
+Updated C39 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/88297d2c-3c16-43d8-8caf-fe8997e1cf68.
+Updated C39 fields.
+Updated C39 sheetname to 'ST50H & PERIPHERALS'.
+Updated C39 sheetfile to 'ST50H.kicad_sch'.
+Updated C39 footprint filters to '0402_C'.
+Connected C39 pin 2 to GND2.
+Connected C39 pin 1 to Net-(C39-Pad1).
+Added C40 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C40.
+Changed C40 value from C_0603_1608Metric to 0.1uF.
+Updated C40 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/25ea1896-930a-4556-8c36-cdc7c037a1ab.
+Updated C40 fields.
+Updated C40 sheetname to 'ST50H & PERIPHERALS'.
+Updated C40 sheetfile to 'ST50H.kicad_sch'.
+Updated C40 footprint filters to '0402_C'.
+Connected C40 pin 1 to PA5.
+Connected C40 pin 2 to GND2.
+Added C41 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C41.
+Reconnected SB1 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Changed C41 value from C_0603_1608Metric to 0.1uF.
+Reconnected SIP1 pin 53 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 4 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 54 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 55 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 7 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 3 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected SIP1 pin 6 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C41 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/2b719ad9-c7ca-49ad-94bb-80d409428a9f.
+Added SW1 (footprint 'Packetworx Footprints:PTS820J20M').
+Changed S1 reference designator to SW1.
+Changed SW1 value from PTS820J20M to DNP.
+Updated SW1 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/92cc1a7f-a328-4434-8ffe-312a4ca10dda.
+Updated SW1 fields.
+Updated SW1 sheetname to 'ST50H & PERIPHERALS'.
+Updated SW1 sheetfile to 'ST50H.kicad_sch'.
+Updated SW1 footprint filters to 'LS10N2H-T'.
+Connected SW1 pin 6 to GND2.
+Connected SW1 pin 3 to GND2.
+Connected SW1 pin 1 to GND2.
+Connected SW1 pin 5 to GND2.
+Connected SW1 pin 4 to GND2.
+Connected SW1 pin 2 to PA5.
+Updated C41 fields.
+Updated C41 sheetname to 'ST50H & PERIPHERALS'.
+Updated C41 sheetfile to 'ST50H.kicad_sch'.
+Updated C41 footprint filters to 'C_*'.
+Add net /ST50H & PERIPHERALS/1-VBAT.
+Connected C41 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C41 pin 2 to GND2.
+Added C42 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C42.
+Changed C42 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C42 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/490b38bb-1ad3-4a3f-a93b-dbb1bbf4aa10.
+Updated C42 fields.
+Updated C42 sheetname to 'ST50H & PERIPHERALS'.
+Updated C42 sheetfile to 'ST50H.kicad_sch'.
+Updated C42 footprint filters to '0402_C'.
+Connected C42 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C42 pin 1 to GND2.
+Added C43 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C43.
+Changed C43 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C43 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/051c431b-3965-4a5e-86c3-34685736b8b2.
+Reconnected TP19 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C43 fields.
+Updated C43 sheetname to 'ST50H & PERIPHERALS'.
+Updated C43 sheetfile to 'ST50H.kicad_sch'.
+Updated C43 footprint filters to '0402_C'.
+Connected C43 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Connected C43 pin 1 to GND2.
+Added C44 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C44.
+Changed C44 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C44 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/19ce1a12-6490-4224-a7b5-f9a536400079.
+Connected U4 pin 15 to Net-(U4A-CSPM5).
+Updated C44 fields.
+Updated C44 sheetname to 'ST50H & PERIPHERALS'.
+Reconnected U6 pin 1 from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Updated C44 sheetfile to 'ST50H.kicad_sch'.
+Added U7 (footprint 'SHT40-AD1B-R2:SHT4X').
+Changed REF** reference designator to U7.
+Changed U7 value from SHT4X to SHT40-AD1B-R3.
+Updated U7 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/3b683227-bf48-49cd-bfc1-609df91cc1b9.
+Updated U7 fields.
+Updated U7 sheetname to 'ST50H & PERIPHERALS'.
+Updated U7 sheetfile to 'ST50H.kicad_sch'.
+Updated U7 footprint filters to 'DFN4_SHT4x_SEN DFN4_SHT4x_SEN-M DFN4_SHT4x_SEN-L'.
+Connected U7 pin 1 to SDA.
+Connected U7 pin 3 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U7 pin 4 to GND2.
+Connected U7 pin 2 to SCL.
+Updated C44 footprint filters to '0402_C'.
+Added U8 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U8.
+Changed U8 value from SOT-23-6 to USBLC6-2SC6.
+Updated U8 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/bb97d1f1-0b47-46e5-83d3-d05772b7c553.
+Updated U8 fields.
+Updated U8 sheetname to 'ST50H & PERIPHERALS'.
+Updated U8 sheetfile to 'ST50H.kicad_sch'.
+Updated U8 footprint filters to 'SOT?23*'.
+Connected U8 pin 5 to 5V_READ.
+Connected U8 pin 2 to GND2.
+Connected U8 pin 6 to /ST50H & PERIPHERALS/D-.
+Connected U8 pin 3 to /ST50H & PERIPHERALS/PA12.
+Connected U8 pin 1 to /ST50H & PERIPHERALS/PA11.
+Connected U8 pin 4 to /ST50H & PERIPHERALS/D+.
+Connected C44 pin 2 to /ST50H & PERIPHERALS/1-VBAT.
+Added U9 (footprint 'Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP6.4x6.4mm').
+Changed REF** reference designator to U9.
+Changed U9 value from QFN-68-1EP_8x8mm_P0.4mm_EP6.4x6.4mm to STM32WB55RGVx.
+Updated U9 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/7fb36edd-d65f-4bea-b840-4c21ae0d9ec0.
+Updated U9 fields.
+Updated U9 sheetname to 'ST50H & PERIPHERALS'.
+Updated U9 sheetfile to 'ST50H.kicad_sch'.
+Updated U9 footprint filters to 'QFN*1EP*8x8mm*P0.4mm*'.
+Connected U9 pin 31 to /ST50H & PERIPHERALS/31-RF.
+Add net unconnected-(U9-AT1-Pad37).
+Connected U9 pin 37 to unconnected-(U9-AT1-Pad37).
+Connected U9 pin 42 to GND2.
+Connected U9 pin 27 to /OUTPUT_LOADSWITCH/SYS_TRIG.
+Connected U9 pin 64 to /ISO_MODBUS/RS485_EN.
+Connected U9 pin 69 to GND2.
+Connected U9 pin 4 to /ST50H & PERIPHERALS/4-PC14-OSC32_OUT.
+Connected U9 pin 11 to /ST50H & PERIPHERALS/PC2-PWM_MIKROE.
+Connected U9 pin 25 to Net-(U9-PC4).
+Add net unconnected-(U9-PD1-Pad62).
+Connected U9 pin 62 to unconnected-(U9-PD1-Pad62).
+Connected U9 pin 67 to /ISO_MODBUS/RS485_RXD.
+Connected U9 pin 39 to PA5.
+Connected U9 pin 6 to SCL.
+Connected U9 pin 1 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 13 to /ST50H & PERIPHERALS/13-VREF+.
+Connected U9 pin 3 to /ST50H & PERIPHERALS/3-PC14-OSC32_IN.
+Connected U9 pin 10 to /ST50H & PERIPHERALS/PC1-LPUART_TX-MAIN_MCU.
+Connected U9 pin 50 to /ST50H & PERIPHERALS/nSMBALERT.
+Connected U9 pin 21 to /ST50H & PERIPHERALS/PA6-SPI1_MISO.
+Connected U9 pin 55 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 53 to /ST50H & PERIPHERALS/PA12.
+Connected U9 pin 9 to /ST50H & PERIPHERALS/PC0-LPUART_RX-MAIN_MCU.
+Connected U9 pin 54 to /ST50H & PERIPHERALS/PA13-SWDIO.
+Add net unconnected-(U9-PA10-Pad51).
+Connected U9 pin 51 to unconnected-(U9-PA10-Pad51).
+Connected U9 pin 23 to /ST50H & PERIPHERALS/ANALOG_5V.
+Add net unconnected-(U9-AT0-Pad36).
+Connected U9 pin 36 to unconnected-(U9-AT0-Pad36).
+Connected U9 pin 41 to /ST50H & PERIPHERALS/41-VFBSMPS.
+Connected U9 pin 26 to Net-(U9-PC5).
+Connected U9 pin 12 to Net-(U9-PC3).
+Add net /ST50H & PERIPHERALS/35-OSC_IN.
+Connected U9 pin 35 to /ST50H & PERIPHERALS/35-OSC_IN.
+Connected U9 pin 16 to /ST50H & PERIPHERALS/PA1-SPI1_SCK.
+Connected U9 pin 44 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 8 to /ST50H & PERIPHERALS/8-NRST.
+Connected U9 pin 7 to SDA.
+Add net unconnected-(U9-PB0-Pad38).
+Connected U9 pin 38 to unconnected-(U9-PB0-Pad38).
+Connected U9 pin 52 to /ST50H & PERIPHERALS/PA11.
+Add net unconnected-(U9-PA2-Pad17).
+Connected U9 pin 17 to unconnected-(U9-PA2-Pad17).
+Add net unconnected-(U9-PC12-Pad60).
+Connected U9 pin 60 to unconnected-(U9-PC12-Pad60).
+Connected U9 pin 20 to PB5.
+Connected U9 pin 30 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 48 to /ST50H & PERIPHERALS/WDT_DONE.
+Connected U9 pin 32 to GND2.
+Connected U9 pin 33 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 47 to PB1.
+Connected U9 pin 24 to PB14.
+Connected U9 pin 65 to /ST50H & PERIPHERALS/PB5-SPI1_MOSI.
+Connected U9 pin 63 to /ST50H & PERIPHERALS/PB3-SWO.
+Add net unconnected-(U9-PC10-Pad58).
+Connected U9 pin 58 to unconnected-(U9-PC10-Pad58).
+Add net unconnected-(U9-PE4-Pad40).
+Connected U9 pin 40 to unconnected-(U9-PE4-Pad40).
+Connected U9 pin 14 to /ST50H & PERIPHERALS/13-VREF+.
+Connected U9 pin 5 to /ST50H & PERIPHERALS/5-PH3-BOOT0.
+Add net unconnected-(U9-PB12-Pad46).
+Connected U9 pin 46 to unconnected-(U9-PB12-Pad46).
+Connected U9 pin 68 to /ST50H & PERIPHERALS/1-VBAT.
+Add net unconnected-(U9-PA0-Pad15).
+Connected U9 pin 15 to unconnected-(U9-PA0-Pad15).
+Connected U9 pin 56 to /ST50H & PERIPHERALS/PA14-SWCLK.
+Add net /ST50H & PERIPHERALS/34-OSC_OUT.
+Connected U9 pin 34 to /ST50H & PERIPHERALS/34-OSC_OUT.
+Add net unconnected-(U9-PC13-Pad2).
+Connected U9 pin 2 to unconnected-(U9-PC13-Pad2).
+Connected U9 pin 19 to /ST50H & PERIPHERALS/PA4-SPI1_NSS.
+Connected U9 pin 45 to /ST50H & PERIPHERALS/1-VBAT.
+Connected U9 pin 22 to /ST50H & PERIPHERALS/ANALOG_3V3.
+Add net unconnected-(U9-PB11-Pad29).
+Connected U9 pin 29 to unconnected-(U9-PB11-Pad29).
+Add net unconnected-(U9-PB15-Pad49).
+Connected U9 pin 49 to unconnected-(U9-PB15-Pad49).
+Add net unconnected-(U9-PC11-Pad59).
+Connected U9 pin 59 to unconnected-(U9-PC11-Pad59).
+Connected U9 pin 57 to /ST50H & PERIPHERALS/PA15-Reset.
+Add net unconnected-(U9-PD0-Pad61).
+Connected U9 pin 61 to unconnected-(U9-PD0-Pad61).
+Connected U9 pin 43 to /ST50H & PERIPHERALS/43-VLXSMPS.
+Connected U9 pin 66 to /ISO_MODBUS/RS485_TXD.
+Add net unconnected-(U9-PB10-Pad28).
+Connected U9 pin 28 to unconnected-(U9-PB10-Pad28).
+Connected U9 pin 18 to /ST50H & PERIPHERALS/PA3-INT.
+Connected C44 pin 1 to GND2.
+Added C45 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C45.
+Changed C45 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 100nF.
+Updated C45 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/d378141f-dc97-4698-8c51-3b039f27f69f.
+Updated C45 fields.
+Added XTAL1 (footprint 'FC-12M 32.7680KA-A3:FC-12M 32.7680KA-A3_EPS-M').
+Changed REF** reference designator to XTAL1.
+Changed XTAL1 value from FC-12M_32.7680KA-A3_EPS to FC-12M 32.7680KA-A3.
+Updated XTAL1 symbol association from  to /606d7eff-cacc-4b5b-bf68-66baf20a647c/f5667659-bc5f-4508-9095-ac9d61af1a56.
+Updated XTAL1 fields.
+Updated XTAL1 sheetname to 'ST50H & PERIPHERALS'.
+Updated XTAL1 sheetfile to 'ST50H.kicad_sch'.
+Updated XTAL1 footprint filters to 'FC-12M 32.7680KA-A3_EPS FC-12M 32.7680KA-A3_EPS-M FC-12M 32.7680KA-A3_EPS-L'.
+Connected XTAL1 pin 1 to /ST50H & PERIPHERALS/3-PC14-OSC32_IN.
+Connected XTAL1 pin 2 to /ST50H & PERIPHERALS/4-PC14-OSC32_OUT.
+Updated C45 sheetname to 'ST50H & PERIPHERALS'.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected via from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Reconnected copper zone from /ST50H & PERIPHERALS/LD_3V3 to /ST50H & PERIPHERALS/1-VBAT.
+Removed unused net /ST50H & PERIPHERALS/BOOT0-MCU1.
+Removed unused net /ST50H & PERIPHERALS/LD_3V3.
+Removed unused net /ST50H & PERIPHERALS/NRST1.
+Removed unused net Net-(U20-PB10).
+Removed unused net Net-(U20-PB11).
+Removed unused net Net-(U20-PC5).
+Removed unused net unconnected-(J7-Pin_1-Pad1).
+Removed unused net unconnected-(U20-ANT_NC-Pad85).
+Removed unused net unconnected-(U20-PA0-Pad3).
+Removed unused net unconnected-(U20-PA10-Pad28).
+Removed unused net unconnected-(U20-PA2-Pad1).
+Removed unused net unconnected-(U20-PB0-Pad44).
+Removed unused net unconnected-(U20-PB12-Pad41).
+Removed unused net unconnected-(U20-PB15-Pad38).
+Removed unused net unconnected-(U20-PC10-Pad22).
+Removed unused net unconnected-(U20-PC11-Pad23).
+Removed unused net unconnected-(U20-PC12-Pad24).
+Removed unused net unconnected-(U20-PC13-Pad40).
+Removed unused net unconnected-(U20-PC3-Pad7).
+Removed unused net unconnected-(U20-PC4-Pad49).
+Removed unused net unconnected-(U20-PD0-Pad33).
+Removed unused net unconnected-(U20-PD1-Pad34).
+Removed unused net unconnected-(U20-PD10-Pad77).
+Removed unused net unconnected-(U20-PD11-Pad82).
+Removed unused net unconnected-(U20-PD12-Pad66).
+Removed unused net unconnected-(U20-PD13-Pad65).
+Removed unused net unconnected-(U20-PD14-Pad63).
+Removed unused net unconnected-(U20-PD15-Pad76).
+Removed unused net unconnected-(U20-PD2-Pad68).
+Removed unused net unconnected-(U20-PD3-Pad70).
+Removed unused net unconnected-(U20-PD4-Pad73).
+Removed unused net unconnected-(U20-PD5-Pad80).
+Removed unused net unconnected-(U20-PD6-Pad81).
+Removed unused net unconnected-(U20-PD7-Pad67).
+Removed unused net unconnected-(U20-PD8-Pad75).
+Removed unused net unconnected-(U20-PD9-Pad74).
+Removed unused net unconnected-(U20-PE0-Pad79).
+Removed unused net unconnected-(U20-PE1-Pad64).
+Removed unused net unconnected-(U20-PE2-Pad78).
+Removed unused net unconnected-(U20-PE3-Pad72).
+Removed unused net unconnected-(U20-PE4-Pad42).
+Removed unused net unconnected-(U20-PH0-Pad61).
+Removed unused net unconnected-(U20-PH1-Pad62).
+Error: AE1 pad 3 not found in Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical.
+Error: AE2 pad 3 not found in Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical.
+Error: H3 pad 1 not found in MountingHole:MountingHole_3mm.
+Error: H5 pad 1 not found in .
+Error: U7 pad 5 not found in SHT40-AD1B-R2:SHT4X.
+Error: Cannot add S2 (footprint 'Packetworx Footprints:RF_SHIELD' not found).
+Error: Cannot add C65 (footprint 'Packetworx Symbol&Footprints:C_0603_1608Metric' not found).
+Error: Cannot add C64 (footprint 'Packetworx Symbol&Footprints:C_0603_1608Metric' not found).
+Error: Cannot add SW4 (footprint 'Packetworx Symbol&Footprints:PTS820J20M' not found).
+Error: Cannot add JP1 (no footprint assigned).
+Error: Cannot add H4 (no footprint assigned).
+Error: Cannot add Y1 (footprint 'ABM8X-102-32.000MHZ-T:OSCSC320X250X100N' not found).
+
+
+Info: Total warnings: 0, errors: 12.
