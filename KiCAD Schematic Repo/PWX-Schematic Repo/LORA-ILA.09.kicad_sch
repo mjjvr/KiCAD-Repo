@@ -1,0 +1,1815 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d824b1cd-6743-42ca-9aab-3b213d81155c")
+	(paper "A4")
+	(title_block
+		(title "PWX-Schematic_Repo")
+		(date "2024-10-04")
+		(rev "0")
+		(company "Packetworx")
+		(comment 1 "J.Javier")
+	)
+	(lib_symbols
+		(symbol "Device:L"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "L"
+				(at 1.905 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Inductor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "inductor choke coil reactor magnetic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "L_0_1"
+				(arc
+					(start 0 -2.54)
+					(mid 0.6323 -1.905)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 0.635)
+					(end 0 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 1.27)
+					(mid 0.6323 1.905)
+					(end 0 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "L_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "EK-ST50_SCH_V03-01-altium-import:1_CAP"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1_CAP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "0402_C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1_CAP_1_0"
+				(polyline
+					(pts
+						(xy 0 3.302) (xy 0 2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 4.318) (xy 0 4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 3.302) (xy -1.778 3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 4.318) (xy -1.778 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 90)
+					(length 3.302)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 7.62 270)
+					(length 3.302)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ILA 09:ILA.08"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U15"
+				(at 20.32 9.5151 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "ILA.09"
+				(at 20.32 6.9751 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "footprints:ILA.08_TAL"
+				(at 20.1168 -10.7188 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.taoglas.com/datasheets/ILA.09.pdf"
+				(at 19.8628 -11.049 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "ILA.08"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "ILA.08_TAL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ILA.08_0_1"
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 33.02 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -7.62) (xy 33.02 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 9.9568 -15.2908 90)
+					(length 7.62)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.5448 -15.2654 90)
+					(length 7.62)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 21.7424 -15.3416 90)
+					(length 7.62)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "ILA.08_1_1"
+				(pin unspecified line
+					(at 28.7528 -15.2654 90)
+					(length 7.62)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND2"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND2"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND2_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND2_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GND2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 188.1918 110.7592)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14683456-881b-4293-840d-616c34d34ce7")
+	)
+	(junction
+		(at 169.3958 110.7493)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "279c3ed0-916f-4641-a6cf-beb2acd74254")
+	)
+	(junction
+		(at 117.4486 110.7545)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "522820a9-7718-4727-aab5-a45ea62c34f6")
+	)
+	(junction
+		(at 138.6091 110.7493)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e66dcbb-5469-49e5-9951-5c45afa9e3d7")
+	)
+	(no_connect
+		(at 181.1814 106.3439)
+		(uuid "be45fca9-59e2-49a1-8bf3-b41a668a4844")
+	)
+	(wire
+		(pts
+			(xy 174.9838 110.4211) (xy 174.9499 110.4211)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14fdc092-bbfb-4314-9058-c2289f782343")
+	)
+	(wire
+		(pts
+			(xy 138.6091 110.7493) (xy 169.3958 110.7493)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a40ea23-289a-4c46-a4f1-ca3ec90d6d4c")
+	)
+	(wire
+		(pts
+			(xy 188.1918 126.5034) (xy 183.8227 126.5034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5abbc023-c589-433e-8b30-f487ebccea50")
+	)
+	(wire
+		(pts
+			(xy 174.9838 106.2677) (xy 174.9838 110.4211)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61712a85-5980-409f-bb0c-57d1a084187e")
+	)
+	(wire
+		(pts
+			(xy 169.3958 110.7493) (xy 169.3958 106.2931)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b36b345-f3bb-4ed6-8134-26e7b98039cf")
+	)
+	(wire
+		(pts
+			(xy 169.3958 126.5034) (xy 176.2027 126.5034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88a40b13-b642-4e5e-966c-d53e97218e16")
+	)
+	(wire
+		(pts
+			(xy 131.4007 110.7493) (xy 138.6091 110.7493)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9e5e143-f5a4-424a-81ce-a5a7aeeb5f24")
+	)
+	(wire
+		(pts
+			(xy 123.7807 110.7545) (xy 123.7807 110.7493)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ada50ffb-fda9-4648-89d8-c42d81cea7a8")
+	)
+	(wire
+		(pts
+			(xy 188.1918 106.2677) (xy 188.1918 110.7592)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9ecd836-bb4a-4dba-91e7-a687864a6d7d")
+	)
+	(wire
+		(pts
+			(xy 138.6091 110.7493) (xy 138.6091 113.8093)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd9f7552-f686-4607-9bf0-9bf182e2e745")
+	)
+	(wire
+		(pts
+			(xy 117.4486 110.7545) (xy 123.7807 110.7545)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d16c322e-024f-4b8d-a08d-a089eb92780e")
+	)
+	(wire
+		(pts
+			(xy 112.978 110.7545) (xy 117.4486 110.7545)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d43dc7d2-3172-41eb-89fb-351a91ea49c6")
+	)
+	(wire
+		(pts
+			(xy 188.1918 110.7592) (xy 192.3019 110.7592)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc56478e-00e9-4a8e-901e-b6970f4d1621")
+	)
+	(wire
+		(pts
+			(xy 188.1918 110.7592) (xy 188.1918 126.5034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0606856-e823-40e6-b7ca-1f5ad1edab18")
+	)
+	(wire
+		(pts
+			(xy 117.4486 113.6292) (xy 117.4486 110.7545)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1b19b89-c046-4501-88e2-30375667c880")
+	)
+	(wire
+		(pts
+			(xy 169.3958 110.7493) (xy 169.3958 126.5034)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4feb967-11d5-429b-b14b-b722b86f11be")
+	)
+	(text "PI MATCHING CKT"
+		(exclude_from_sim no)
+		(at 134.2995 100.1322 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify right bottom)
+		)
+		(uuid "df8f286c-c351-4585-97fb-530e873a2a4d")
+	)
+	(hierarchical_label "RF OUT"
+		(shape input)
+		(at 105.358 110.7545 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b77776a1-bd8b-4c91-9e52-21d79221ac29")
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 127.5907 110.7493 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fc71003-34ab-40e6-b3b0-b6690424c814")
+		(property "Reference" "L7"
+			(at 127.5907 105.0855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.8mH"
+			(at 127.5907 107.6255 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0002.pdf"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LQW15AN8N2G00D"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "11.46000"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/murata-electronics/LQG18HN12NJ00D/2594255"
+			(at 127.5907 110.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ed2a46f-5db6-46b1-a0bf-0b588310a4ad")
+		)
+		(pin "2"
+			(uuid "a168b3be-ce8c-4c8e-8b93-c3a5d5e0dea9")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "L7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EK-ST50_SCH_V03-01-altium-import:1_CAP")
+		(at 183.8227 126.5034 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21eca35f-899c-4cc5-a532-05220431f09b")
+		(property "Reference" "C78"
+			(at 180.0127 120.1303 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2pF"
+			(at 180.0127 122.6703 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Footprints:C_0603_1608Metric"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C3R3CB81PNC_Spec.pdf"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C3R3CB81PNC"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "5.46000"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10C3R3CB81PNC/5961033"
+			(at 183.8227 126.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97b36b67-b198-4683-b03c-d2fe5ffdf5f2")
+		)
+		(pin "2"
+			(uuid "9b318315-4a23-419e-b5f7-3a84c53ed49e")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "C78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ILA 09:ILA.08")
+		(at 159.439 91.0023 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c5e6872-b032-4c4f-b60e-b8e536c7356f")
+		(property "Reference" "U14"
+			(at 179.759 81.4872 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "ILA.09"
+			(at 179.759 84.0272 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "footprints:ILA.09"
+			(at 179.5558 101.7211 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.taoglas.com/datasheets/ILA.09.pdf"
+			(at 179.3018 102.0513 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 159.439 91.0023 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "950b76ad-751f-4074-a5be-76b33d9e65bb")
+		)
+		(pin "3"
+			(uuid "779b3634-61a7-4120-8d4f-60f5fc61c10e")
+		)
+		(pin "1"
+			(uuid "74908e13-88eb-433b-91a0-70223b2f791e")
+		)
+		(pin "4"
+			(uuid "d0738c3e-01d6-40e0-b78d-5f51536d4d4a")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "U14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EK-ST50_SCH_V03-01-altium-import:1_CAP")
+		(at 199.9219 110.7592 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f7afd60-0738-4774-bbb7-9e4b214f3d37")
+		(property "Reference" "C85"
+			(at 196.1119 103.8531 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3.9pF"
+			(at 196.1119 106.3931 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Footprints:C_0603_1608Metric"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C3R3CB81PNC_Spec.pdf"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C3R3CB81PNC"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "5.46000"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10C3R3CB81PNC/5961033"
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "188d6017-51b4-40a8-8a6f-2cf8eb5332c0")
+		)
+		(pin "2"
+			(uuid "5a71a725-e872-42ad-80a0-fcfc2e3f65b5")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "C85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 174.9499 110.4211 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95fc43a1-60a3-4ee7-b1b6-dfe57ccbcc8e")
+		(property "Reference" "#PWR0171"
+			(at 174.9499 116.7711 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 174.933 114.8058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 174.9499 110.4211 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 174.9499 110.4211 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 174.9499 110.4211 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6ed2076d-817e-42de-9b2c-193badec052b")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "#PWR0171")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EK-ST50_SCH_V03-01-altium-import:1_CAP")
+		(at 112.978 110.7545 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3cc7386-fa52-49fb-bbb3-a2b7953660bf")
+		(property "Reference" "C60"
+			(at 109.168 104.1071 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22pF"
+			(at 109.168 106.6471 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Packetworx Symbol&Footprints:C_0603_1608Metric"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C3R3CB81PNC_Spec.pdf"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C3R3CB81PNC"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "5.46000"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10C3R3CB81PNC/5961033"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C527036"
+			(at 112.978 110.7545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0dd6d43a-3be6-430d-bc1e-d9a35ce27fb0")
+		)
+		(pin "2"
+			(uuid "ce12e113-262f-4beb-a44f-a331b454dc7c")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "C60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EK-ST50_SCH_V03-01-altium-import:1_CAP")
+		(at 138.6091 121.4293 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db3c2463-d3a4-475c-8d2f-79c06bc69c54")
+		(property "Reference" "C63"
+			(at 140.6411 118.8893 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "DNP"
+			(at 140.6411 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Packetworx Symbol&Footprints:C_0603_1608Metric"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C3R3CB81PNC_Spec.pdf"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C3R3CB81PNC"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "5.46000"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10C3R3CB81PNC/5961033"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C527036"
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f699593-6413-4e0b-9649-57b4f36d6570")
+		)
+		(pin "2"
+			(uuid "f6d0d9af-5064-4698-97ed-58e83e544a66")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EK-ST50_SCH_V03-01-altium-import:1_CAP")
+		(at 117.4486 121.2492 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0633429-18e0-411f-a764-4a064b6e647b")
+		(property "Reference" "C61"
+			(at 119.4806 118.7092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "DNP"
+			(at 119.4806 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Packetworx Symbol&Footprints:C_0603_1608Metric"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C3R3CB81PNC_Spec.pdf"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10C3R3CB81PNC"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "5.46000"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10C3R3CB81PNC/5961033"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C527036"
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b7c47f1-86cc-4287-8704-362565cc5503")
+		)
+		(pin "2"
+			(uuid "5e65dc68-22b2-4daa-b976-d1c66947a750")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "C61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 138.6091 121.4293 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e3a1b6f0-0f37-4d44-bd4e-dc47f8f03ab7")
+		(property "Reference" "#PWR0159"
+			(at 138.6091 127.7793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 138.5922 125.814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.6091 121.4293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89d74de4-b097-4f05-b9f7-a491e80e10fb")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 117.4486 121.2492 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6ab6766-dfaa-47e5-942e-a19d8ce18d79")
+		(property "Reference" "#PWR0157"
+			(at 117.4486 127.5992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 117.4317 125.6339 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 117.4486 121.2492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ff774b1-536c-41ac-8bbc-ec1c533d6aad")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 199.9219 110.7592 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eee4177e-2cb7-456e-9e72-f41d52795989")
+		(property "Reference" "#PWR0181"
+			(at 206.2719 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 204.3066 110.7761 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.9219 110.7592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37e4d267-f6df-4eee-843f-8a91f6c75817")
+		)
+		(instances
+			(project "packetRFMS"
+				(path "/f161f3cd-4cdc-44f8-96e6-64419bb1832a/606d7eff-cacc-4b5b-bf68-66baf20a647c"
+					(reference "#PWR0181")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

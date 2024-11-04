@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Packetworx_Symbols")(type "Legacy")(uri "C:/Users/pw1/Desktop/LTC4015 CLICKNMOD-14-07-2023-5PM (1)/LTC4015 CLICKNMOD/LTC4015 CLICKNMOD/LT4015 Reference file/Solar Charge Controller with ST50H Design/Packetworx Kicad/Packetworx_Symbols.lib")(options "")(descr ""))
+  (lib (name "SHT40")(type "KiCad")(uri "C:/Users/pw1/Desktop/LTC4015 CLICKNMOD/ul_SHT40-AD1B-R3/KiCADv6/2023-07-13_00-07-42.kicad_sym")(options "")(descr ""))
+  (lib (name "SHT20")(type "KiCad")(uri "C:/Users/Owner/Desktop/PacketSeries/SYMBOL-REPO/SHT20.kicad_sym")(options "")(descr ""))
+)

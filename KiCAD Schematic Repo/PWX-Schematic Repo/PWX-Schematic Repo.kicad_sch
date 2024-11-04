@@ -1,0 +1,939 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e45bcff5-6691-4f77-b813-7efcbb908780")
+	(paper "A0")
+	(title_block
+		(title "PWX-Schematic_Repo")
+		(date "2024-10-04")
+		(rev "0")
+		(company "Packetworx")
+		(comment 1 "J.Javier")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 1047.6949 46.4007) (xy 1050.3929 794.7541)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09750f22-035a-4687-9fb6-f49f5d466198")
+	)
+	(polyline
+		(pts
+			(xy 297.2159 12.6494) (xy 297.2159 829.5766)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11e3700b-0593-4dcc-8868-9df418880138")
+	)
+	(polyline
+		(pts
+			(xy 146.9485 829.5706) (xy 146.9542 829.5706)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16e7ac2a-a816-40cf-a205-f47b3b9e4818")
+	)
+	(polyline
+		(pts
+			(xy 896.9656 10.3467) (xy 896.9656 827.2739)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "461087a8-543f-4032-9e7b-533e9577c5aa")
+	)
+	(polyline
+		(pts
+			(xy 447.0405 10.3162) (xy 447.0405 827.2434)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57e08182-1a7b-4a05-b7ec-81187f705c6c")
+	)
+	(polyline
+		(pts
+			(xy 296.9969 10.0389) (xy 296.9969 10.0427)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82e99745-4baf-41f9-9e55-454f4d9e3fe1")
+	)
+	(polyline
+		(pts
+			(xy 597.0182 10.336) (xy 597.0182 827.2632)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e8fda17-9365-49ff-94af-32c42bc963e3")
+	)
+	(polyline
+		(pts
+			(xy 146.9485 12.6434) (xy 146.9485 829.5706)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0f939ed-faa2-4201-a21f-f2c183ef1a98")
+	)
+	(polyline
+		(pts
+			(xy 746.9931 10.3375) (xy 746.9931 827.2647)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f17179d6-0b74-41a1-b6d2-7400d030d1dd")
+	)
+	(text "Regulators"
+		(exclude_from_sim no)
+		(at 74.1152 22.2759 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "0b8c3041-c348-4fdc-82f2-264d3eb1cff8")
+	)
+	(text "BLE/WIFI"
+		(exclude_from_sim no)
+		(at 673.1 213.36 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "0eeacf52-c674-4e93-8085-7b8e83b12647")
+	)
+	(text "Peripherals"
+		(exclude_from_sim no)
+		(at 1119.8872 54.9251 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "13751612-ea85-4892-987a-5ff468db0d21")
+	)
+	(text "915MHz \nLORAWAN"
+		(exclude_from_sim no)
+		(at 823.4362 62.6568 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "3512a956-1036-4a35-8215-eff5df537780")
+	)
+	(text "TEMP+HUM"
+		(exclude_from_sim no)
+		(at 525.5322 208.8438 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "3e83c35b-6d23-41bd-b824-9f47129c591f")
+	)
+	(text "RT9080\nVin max: 5V\nVout Max: 3.3V\nImax: 600mA"
+		(exclude_from_sim no)
+		(at 31.6367 53.9392 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4abd0a85-afa0-4b93-aa31-d1967a6558c6")
+	)
+	(text "Peripherals"
+		(exclude_from_sim no)
+		(at 969.5748 22.8109 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "602e2a7e-9357-4679-8593-6053018cf548")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 673.1306 23.2334 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "73fa87b4-5236-4c74-865c-e4dea59b7389")
+	)
+	(text "MT3608\nVin=2V to 24V\nVmax=28V\nImax=4A"
+		(exclude_from_sim no)
+		(at 31.6047 119.6867 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "7c2fb2f6-c711-4383-8e5d-9860b49b9267")
+	)
+	(text "TCK107\nVin=0.3V TO 6V\nCTRL=0.3V TO 6V\nVout=-0.3 TO VIN+0.3 v\nImax=1A"
+		(exclude_from_sim no)
+		(at 327.7111 53.2153 0)
+		(effects
+			(font
+				(size 4.6 4.6)
+				(thickness 1.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "8e07a929-1ba0-4989-900b-c25cb5ef5399")
+	)
+	(text "AP64350\nVin=3.8 to 42V\nVout =0.8V to 39V \nImax=3.5A"
+		(exclude_from_sim no)
+		(at 31.6794 187.6098 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "9b9d1cee-7122-4123-a7c9-0c43cdaa8afc")
+	)
+	(text "LORA"
+		(exclude_from_sim no)
+		(at 672.4809 139.0902 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "acb7b5bd-bbd3-4142-8eba-c7fb981e06ab")
+	)
+	(text "Chargers/Power-Path"
+		(exclude_from_sim no)
+		(at 226.1121 23.0845 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "b803e629-8930-41c0-bbdf-9cbf2c28acc5")
+	)
+	(text "WATCHDOG \nTIMER"
+		(exclude_from_sim no)
+		(at 973.1021 63.6164 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "c235ac58-7390-4521-9417-db19dbf4d32f")
+	)
+	(text "RS485"
+		(exclude_from_sim no)
+		(at 524.51 62.23 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "c650a762-60aa-4275-9e55-b7a16934e306")
+	)
+	(text "Sensor/Interface"
+		(exclude_from_sim no)
+		(at 521.9445 23.2387 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "ca56ea42-0d7e-4466-9573-a790e131c9f1")
+	)
+	(text "LTC4040\nVin max: 5v\nVout Max: 5V\nImax: 1A\nLiFePo4/Li-ion"
+		(exclude_from_sim no)
+		(at 179.6832 57.6765 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 1.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d06355c3-ca22-4ec2-9dcf-510de3a69fd7")
+	)
+	(text "LORA"
+		(exclude_from_sim no)
+		(at 671.6171 62.2088 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "e5969b0f-fd1e-4581-9241-84964907caae")
+	)
+	(text "RF Antenna"
+		(exclude_from_sim no)
+		(at 826.3599 22.4488 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "ebf63d9b-4575-4f59-825d-cdb7cdeae1f8")
+	)
+	(text "TEMP+HUM"
+		(exclude_from_sim no)
+		(at 526.3853 137.2627 0)
+		(effects
+			(font
+				(size 7 7)
+				(thickness 1.4)
+				(bold yes)
+			)
+		)
+		(uuid "ec0df2d0-507b-43ed-ad93-95a5cbccdc5a")
+	)
+	(text "Load Switch"
+		(exclude_from_sim no)
+		(at 371.3933 23.3195 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+		(uuid "efa287c5-cd22-4704-b087-b57ed8407d92")
+	)
+	(sheet
+		(at 779.6947 33.2662)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b7ec768-b22c-4dd2-83c5-36d96cfe9693")
+		(property "Sheetname" "ILA.09"
+			(at 779.6947 32.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LORA-ILA.09.kicad_sch"
+			(at 779.6947 93.6172 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 627.38 33.02)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "25417316-0905-43c9-880d-4ff6d99b24d3")
+		(property "Sheetname" "Acsip S76s"
+			(at 627.38 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Acsip S76s.kicad_sch"
+			(at 627.38 93.4104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 167.64)
+		(size 90.17 60.96)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3be73c98-aa8b-44cf-9ce4-d683d096ead3")
+		(property "Sheetname" "3V3 Step Down Converter"
+			(at 31.75 166.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AP64350SP-13_Buck Converter.kicad_sch"
+			(at 31.75 228.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 100.33)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46b54f87-4815-42ff-b90f-5e9443870cf5")
+		(property "Sheetname" "Step-up Converter"
+			(at 31.75 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MT3608.kicad_sch"
+			(at 31.75 160.986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 627.38 257.81)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "553a1db3-29a0-4f63-82c0-a67bd57c106b")
+		(property "Sheetname" "STM32F"
+			(at 627.38 257.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32F.kicad_sch"
+			(at 627.38 318.1108 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 480.4013 110.3487)
+		(size 90.17 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "70c81bf8-20f9-4b6e-968b-f4847a3028c2")
+		(property "Sheetname" "TEMPERATURE AND HUMIDITY"
+			(at 480.4013 109.6371 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SHT40.kicad_sch"
+			(at 480.4013 170.3423 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 480.06 33.02)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76934a6f-d2e6-40cb-a597-2a31d3dfae59")
+		(property "Sheetname" "ADM485"
+			(at 480.06 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS-495-TO-UART.kicad_sch"
+			(at 480.06 93.1234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 925.83 34.29)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8036d384-f35e-4fc4-aa33-0c656c8f1544")
+		(property "Sheetname" "WATCHDOG-TIMER"
+			(at 925.83 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "WDT.kicad_sch"
+			(at 925.83 94.5296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 627.38 182.88)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "853a3aca-3d76-4a9d-91e1-797bc2040044")
+		(property "Sheetname" "STM32WB"
+			(at 627.38 182.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32WB.kicad_sch"
+			(at 627.38 243.1822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 33.02)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "871e218e-297f-4a11-b777-e9076fca9054")
+		(property "Sheetname" "5v UPS"
+			(at 179.07 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTC4040_5vUPS.kicad_sch"
+			(at 179.07 93.2925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 327.5424 33.0951)
+		(size 90.0533 59.7108)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f38d770-e530-4b8e-a1a4-da02e6240576")
+		(property "Sheetname" "TCK107"
+			(at 327.5424 32.3835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LOADSWITCH.kicad_sch"
+			(at 327.5424 93.3905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 479.3775 184.6912)
+		(size 90.17 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6812f25-d39a-4575-8565-63e48d003caf")
+		(property "Sheetname" "Temperature and Humidity II"
+			(at 479.3775 183.9796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SHT20.kicad_sch"
+			(at 479.3775 243.7638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 33.02)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1897263-7ea1-4a28-a0fd-b908724828d8")
+		(property "Sheetname" "3.3V Regulator"
+			(at 31.75 32.3084 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RT9080.kicad_sch"
+			(at 31.75 93.0426 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 479.5481 257.3273)
+		(size 90.17 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c48438a3-74ee-49c9-9a78-17843a4d88b8")
+		(property "Sheetname" "ADC"
+			(at 479.5481 256.6157 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ANALOG TO DIGITAL CONVERTER.kicad_sch"
+			(at 479.5481 316.2759 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 627.38 109.22)
+		(size 90.17 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6a99d2a-d75a-492f-b78b-857de2c5f440")
+		(property "Sheetname" "Acsip ST50h"
+			(at 627.38 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 627.38 169.4925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

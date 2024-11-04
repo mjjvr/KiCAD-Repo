@@ -1,0 +1,230 @@
+(footprint "XAL1010"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "XAL1010-1")
+	(tags "Inductor")
+	(property "Reference" "REF**"
+		(at -0.042093 6.377474 0)
+		(layer "F.SilkS")
+		(uuid "b4f2922d-ae14-43c5-955c-6b19f00c7fb8")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "XAL1010-103MED"
+		(at -0.37426 -0.03804 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "36d57d5b-0660-4222-811f-882cd3b53da3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ddfb6b9-14a4-4c46-a9c2-b55f268b79f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88bf0f41-71ff-43d6-8bf0-187002d2188c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "COILCRAFT - XAL1010-103MED - INDUCTOR, 10UH, 15.5A, 20%, PWR, 11MHZ"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1aa27f33-5300-4436-bda0-fd6a44b0b59a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "COILCRAFT"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5c9e6af-7135-484e-9ffa-bb4a77fe85d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "XAL1010-103MED"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40438b69-18e1-407c-ae67-4de6b014b227")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "300"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a8442c9-5e09-49b8-b97a-fe22a6cce803")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.mouser.com/ProductDetail/Coilcraft/XAL1010-103MED?qs=zCSbvcPd3pZbLXLmozd3Bg%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed5d2b2b-c848-411c-8594-4fb3a12dbc7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5 -5.65)
+		(end -5 5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a4d9e40-c1b8-471e-8100-6fca35642c7a")
+	)
+	(fp_line
+		(start -5 5.65)
+		(end 5 5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b211ac0-4db8-479b-81b5-e10c395105f5")
+	)
+	(fp_line
+		(start 5 -5.65)
+		(end -5 -5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "07e9c2af-92e9-4700-b56a-8b4e2aa2b054")
+	)
+	(fp_line
+		(start 5 5.65)
+		(end 5 -5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a29df389-a9ef-4a02-9f98-710a20d3b2ed")
+	)
+	(fp_line
+		(start -5 -5.65)
+		(end 5 -5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f190d388-3074-441e-81d1-c79ffce45c2b")
+	)
+	(fp_line
+		(start -5 5.65)
+		(end -5 -5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66e8e3fc-31a9-4ef0-8025-0526c69a8aea")
+	)
+	(fp_line
+		(start 5 -5.65)
+		(end 5 5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1193a615-f1c4-4730-8da9-65da065bb5d2")
+	)
+	(fp_line
+		(start 5 5.65)
+		(end -5 5.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "86c1b620-b8b2-4181-9a90-ddb45b7de1f2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.37426 -0.03804 0)
+		(layer "F.Fab")
+		(uuid "13c1890a-5876-4b1d-b600-56e8276a55b8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.325 0)
+		(size 2.38 9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1213117f-c59b-41b0-91c0-80a07e868212")
+	)
+	(pad "2" smd rect
+		(at 3.325 0)
+		(size 2.38 9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e43e3ec4-eca9-434c-a257-5d67b42c4a27")
+	)
+	(model "${KIPRJMOD}/ul_XAL1010-103MED/IND_XAL1010_COC.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

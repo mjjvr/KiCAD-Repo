@@ -1,0 +1,354 @@
+(footprint "G-31_MUR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "GRM31CR61H106KA12L ")
+	(property "Reference" "REF**"
+		(at 3.120279 -0.002044 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "22c66368-7a97-4f38-b9e0-bc747574a603")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "10uF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b60be244-a7ff-45f5-8d37-7fed7c21145c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "731ddcf3-6536-4c57-afbe-0992c424ee7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37cdb022-5959-43e5-a021-feaddc0e807f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Unpolarized capacitor, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6384bf5a-5e02-42a2-9dd3-32f77533c22a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C13585"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5df43bc6-4a59-4ed7-abe2-bf5f6530d71a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c91daea7-ddcd-40eb-aa3e-b84ac9c544df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "CL31A106KBHNNNE"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "891f1019-150a-4aa1-9345-21ca9a4be8fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "18.01000"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c93ca319-0e77-4eaa-9026-b792a0e23ebd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL31A106KBHNNNE/3890962"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d447db17-3994-4e4c-8fb3-a3b60071aa4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.58145 0.9271)
+		(end 0.58145 0.9271)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bcc9f7a-192b-4c73-8352-f82848fbfb06")
+	)
+	(fp_line
+		(start 0.58145 -0.9271)
+		(end -0.58145 -0.9271)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f24ea84-8694-495e-ba5c-913ce4410830")
+	)
+	(fp_line
+		(start -2.2098 -1.0541)
+		(end 2.2098 -1.0541)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "847c70bc-ff1d-4c9b-8cc6-02ec6d3fb6f0")
+	)
+	(fp_line
+		(start -2.2098 1.0541)
+		(end -2.2098 -1.0541)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "99b9aff4-3e47-4625-8ce2-240820fd91c7")
+	)
+	(fp_line
+		(start 2.2098 -1.0541)
+		(end 2.2098 1.0541)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "40342753-b4a5-4d90-93f8-6f9ecd45c9ae")
+	)
+	(fp_line
+		(start 2.2098 1.0541)
+		(end -2.2098 1.0541)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e04e3ba9-727f-44c1-afcb-0fc87c2bcc9c")
+	)
+	(fp_line
+		(start -1.6002 -0.8001)
+		(end -1.6002 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "08169826-ec12-409f-a406-7ddb173ed2e0")
+	)
+	(fp_line
+		(start -1.6002 -0.8001)
+		(end -1.6002 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "74d65f72-7956-4c65-bc17-83406d0eaac1")
+	)
+	(fp_line
+		(start -1.6002 0.8001)
+		(end -0.889 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "afee448b-d7c2-4c61-bfbc-7474c18c6dc5")
+	)
+	(fp_line
+		(start -1.6002 0.8001)
+		(end 1.6002 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4ee826ba-a3f3-4d64-af92-fe890e35930e")
+	)
+	(fp_line
+		(start -0.889 -0.8001)
+		(end -1.6002 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d7d2f49-4226-4ff3-99af-865de409b4be")
+	)
+	(fp_line
+		(start -0.889 0.8001)
+		(end -0.889 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4af7ec12-6d40-49c8-9235-a6686d06de7d")
+	)
+	(fp_line
+		(start 0.889 -0.8001)
+		(end 0.889 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7f1d2f60-115b-4b2b-9b75-b5958692d1cc")
+	)
+	(fp_line
+		(start 0.889 0.8001)
+		(end 1.6002 0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d58add7e-72e7-4120-990f-04316a3d8686")
+	)
+	(fp_line
+		(start 1.6002 -0.8001)
+		(end -1.6002 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c124c831-fedc-45e3-9a2a-6e3d4d1441b1")
+	)
+	(fp_line
+		(start 1.6002 -0.8001)
+		(end 0.889 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e19ee43-3e01-49d2-98dd-7d9988aac875")
+	)
+	(fp_line
+		(start 1.6002 0.8001)
+		(end 1.6002 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "60025b98-ff2c-4924-9adb-742e249da365")
+	)
+	(fp_line
+		(start 1.6002 0.8001)
+		(end 1.6002 -0.8001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ca58d2cb-886b-41a5-88ef-191971d5dc3d")
+	)
+	(fp_circle
+		(center -1.2954 0)
+		(end -1.2954 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "18210177-895f-4dd0-9514-3fe43777765c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "713587c2-a12b-465c-8ab6-472dee5a7591")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.4224 0)
+		(size 1.0668 1.6002)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "eecddec7-0798-4d2c-9d12-e5734bfbf152")
+	)
+	(pad "2" smd rect
+		(at 1.4224 0)
+		(size 1.0668 1.6002)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "04b131dc-4a97-4bb5-8ef6-a0723e388f5d")
+	)
+	(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

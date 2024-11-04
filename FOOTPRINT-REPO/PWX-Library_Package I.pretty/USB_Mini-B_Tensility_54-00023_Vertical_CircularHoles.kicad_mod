@@ -1,0 +1,337 @@
+(footprint "USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "http://www.tensility.com/pdffiles/54-00023.pdf")
+	(tags "usb mini receptacle vertical")
+	(property "Reference" "REF**"
+		(at 6.190503 -3.724078 0)
+		(layer "F.SilkS")
+		(uuid "5dd593a5-7114-45d7-ae5a-791678dc98c2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "USB_B_Mini"
+		(at 1.5 2.2 0)
+		(layer "F.Fab")
+		(uuid "33c8add6-4fc2-445a-bb10-36de7b76f269")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fb5af35-267e-45e3-aba3-a438ebdda441")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17322275-25ba-4c3f-a1ad-ceaf12845b13")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "USB Mini Type B connector"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a4ff688-011a-44ab-9896-f892c2d89a48")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2688797"
+		(at 258.859684 -133.511372 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ba45cfe-a0f2-4576-969c-93780f968133")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.3 -2.9)
+		(end 5.5 -2.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7dbbae09-5a82-4ac6-8a98-f2b5a3472335")
+	)
+	(fp_line
+		(start -2.3 -2.3)
+		(end -2.3 -2.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7cbc844-57ec-4ffa-a661-efdece375123")
+	)
+	(fp_line
+		(start -2.3 0.6)
+		(end -2.3 1.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40b9ba9a-e72e-4f87-bc41-58e419b05e57")
+	)
+	(fp_line
+		(start -2.3 1.2)
+		(end 5.5 1.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2957a080-5010-4f7e-9cc6-2ac162370735")
+	)
+	(fp_line
+		(start -0.5 1.5)
+		(end 0.5 1.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ad63255-277b-49fd-a2fc-c42bb173dae3")
+	)
+	(fp_line
+		(start 5.5 -2.9)
+		(end 5.5 -2.3)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6254c133-aaba-41e3-ba5e-d644ed2901c9")
+	)
+	(fp_line
+		(start 5.5 1.2)
+		(end 5.5 0.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f4a607a-799b-4b6b-91fa-e487d8e0d68c")
+	)
+	(fp_line
+		(start -3.5 -3.2)
+		(end -3.5 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ebf5026e-e3b3-4c85-90b4-bd694b9577c2")
+	)
+	(fp_line
+		(start -3.5 1.5)
+		(end 6.7 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "99bb8dba-ac9a-48bb-bca3-6b870ae54b2b")
+	)
+	(fp_line
+		(start 6.7 -3.2)
+		(end -3.5 -3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "41c79dd7-163d-48a9-b5a7-a1971e493745")
+	)
+	(fp_line
+		(start 6.7 1.5)
+		(end 6.7 -3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bfa9189a-afb4-4240-a724-22e92d253e1e")
+	)
+	(fp_line
+		(start -2 0.9)
+		(end -2 -2.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "48814642-5c54-4c7c-984e-e523824bc750")
+	)
+	(fp_line
+		(start -2 0.9)
+		(end -0.7 0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "607a46b7-9d13-4113-809a-261db6e47481")
+	)
+	(fp_line
+		(start -0.7 0.9)
+		(end 0 0.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4b67a9e-06a1-4a88-9cf6-3705e1d6ba87")
+	)
+	(fp_line
+		(start 0 0.2)
+		(end 0.7 0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d227668c-5b39-4a2f-90cb-d15127b3d35e")
+	)
+	(fp_line
+		(start 0.7 0.9)
+		(end 5.2 0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5e6b86a-f143-4a9f-9c9b-7edf7c9eb346")
+	)
+	(fp_line
+		(start 5.2 -2.6)
+		(end -2 -2.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3d215a58-6307-4225-9629-715b4349cceb")
+	)
+	(fp_line
+		(start 5.2 -2.6)
+		(end 5.2 0.9)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "87823666-fb35-449c-87db-e4813ad1fcda")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.5 -1 0)
+		(layer "F.Fab")
+		(uuid "99ce8ba1-75c6-4c0b-b531-b56163194390")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.1 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "50c4e6cc-e35f-4118-ade5-e1b2aad5e77d")
+	)
+	(pad "2" thru_hole circle
+		(at 0.8 -1.75)
+		(size 1.1 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6a1ca0e9-c195-48b1-8305-9ea071c0de21")
+	)
+	(pad "3" thru_hole circle
+		(at 1.6 0)
+		(size 1.1 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bc6b9e84-69cf-4c80-b5f7-683f5b869c9d")
+	)
+	(pad "4" thru_hole circle
+		(at 2.4 -1.75)
+		(size 1.1 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e37e97f8-17be-479f-98c8-eb40e2c8fb75")
+	)
+	(pad "5" thru_hole circle
+		(at 3.2 0)
+		(size 1.1 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a204ba58-4dc0-4afd-b5b5-31bbbdeccd10")
+	)
+	(pad "6" thru_hole circle
+		(at -2.05 -0.875)
+		(size 2.4 2.4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "08a442a0-8bf2-426d-b4c9-4a6d392766bc")
+	)
+	(pad "6" thru_hole circle
+		(at 5.25 -0.875)
+		(size 2.4 2.4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b18b835c-d5e4-4045-afd7-91dcf166bf33")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

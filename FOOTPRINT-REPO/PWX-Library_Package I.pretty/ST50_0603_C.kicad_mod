@@ -1,0 +1,262 @@
+(footprint "ST50_0603_C"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+	(tags "capacitor handsolder")
+	(property "Reference" "REF**"
+		(at 0 -1.43 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "af67a9fc-df5f-491b-9dce-6a05129843d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "0.1uF"
+		(at 0 1 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "799b1078-e0cb-407d-9e06-c26ed498e5c2")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf0c3f77-202d-43e2-a1d3-264361acc34d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "507c77b9-c347-4316-8cda-29a87a37e9ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Capacitor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1918527a-6ac6-4da7-9ec6-0e9b8da4c8f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "KEMET"
+		(at 94.831591 274.748971 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d262edc-6587-4878-a0ef-2695f092387c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "C0603C104J4RAC7867"
+		(at 94.831591 274.748971 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49ea9325-d70a-49ef-8599-e04edb79c9e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "6.55000"
+		(at 94.831591 274.748971 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03c29ea8-d4cf-453f-807a-e30413959814")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/kemet/C0603C104J4RAC7867/411096"
+		(at 94.831591 274.748971 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e743c121-464a-4a2f-8e21-6cce0c96c4d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.27 -0.508)
+		(end -1.27 0.591997)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2aa2886b-0445-49a3-9487-0caa72ba8c59")
+	)
+	(fp_line
+		(start -1.27 -0.508)
+		(end 1.030468 -0.508)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9fa36e97-39ac-4199-806c-66fe900f3748")
+	)
+	(fp_line
+		(start -1.27 0.591997)
+		(end 1.030468 0.591997)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6cb8929f-36c4-4009-afa7-abcaf6473ba7")
+	)
+	(fp_line
+		(start 1.030468 -0.508)
+		(end 1.030468 0.591997)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98d238ec-3c30-4c71-ab65-7297a3097428")
+	)
+	(fp_line
+		(start -1.27 -0.508)
+		(end -1.27 0.591997)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "e22598d5-2f22-41e7-96b1-6cca66366ec9")
+	)
+	(fp_line
+		(start -1.27 -0.508)
+		(end 1.030468 -0.508)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "507b7354-8b58-4197-93fa-f9b7ada24d69")
+	)
+	(fp_line
+		(start -1.27 0.591997)
+		(end 1.030468 0.591997)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "f1b32f19-00d8-45b9-be62-1365e08e19da")
+	)
+	(fp_line
+		(start 1.030468 -0.508)
+		(end 1.030468 0.591997)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "cc2f049e-c574-4ad1-9ebc-6e5757278be2")
+	)
+	(fp_line
+		(start -0.919765 -0.358062)
+		(end -0.919765 0.441896)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "22f5f244-4068-497b-bf03-9f43a09207ca")
+	)
+	(fp_line
+		(start -0.919765 -0.358062)
+		(end 0.680311 -0.358062)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "076b9223-beb7-4e2d-9e51-86cbff1b77de")
+	)
+	(fp_line
+		(start 0.680311 -0.358062)
+		(end 0.680311 0.441893)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "27038a79-cd7c-4d79-9884-b58a238d7bed")
+	)
+	(fp_line
+		(start 0.680311 0.441893)
+		(end -0.919765 0.441896)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "73bf6d1c-32ea-4f13-8473-eb5629c9a981")
+	)
+	(pad "1" smd rect
+		(at -0.819808 0.041998)
+		(size 0.7 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(uuid "e930cd0b-13ec-4371-ac84-5ba65bf5b683")
+	)
+	(pad "2" smd rect
+		(at 0.580194 0.041998)
+		(size 0.7 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(uuid "0cf7de33-fe60-4c32-8f66-dd5e1ce920e8")
+	)
+	(model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

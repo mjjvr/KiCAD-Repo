@@ -1,0 +1,993 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3c13eabf-e06d-4ae5-96df-c2b06cc2095e")
+	(paper "A4")
+	(title_block
+		(title "PWX-Schematic_Repo")
+		(date "2024-10-04")
+		(rev "0")
+		(company "Packetworx")
+		(comment 1 "J.Javier")
+	)
+	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND2"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND2"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND2_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND2_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GND2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ul_TCK107:TCK108AF_LF"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U10"
+				(at 22.86 9.2276 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "TCK107AF_LF"
+				(at 22.86 6.2342 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "PWX-Footprints-SNAP:TCK108AF_LF"
+				(at 22.86 6.096 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOT-25-SMV_TOS SOT-25-SMV_TOS-M SOT-25-SMV_TOS-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TCK108AF_LF_1_1"
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 38.1 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -10.16) (xy 38.1 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_out line
+					(at 0 0 0)
+					(length 7.62)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 45.72 -5.08 180)
+					(length 7.62)
+					(name "CONTROL"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 45.72 -2.54 180)
+					(length 7.62)
+					(name "NC"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 45.72 0 180)
+					(length 7.62)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.4986 1.4986)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 143.3708 90.868)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2dfe7216-f874-44f1-9f6d-f87013bcc4dc")
+	)
+	(junction
+		(at 198.0726 90.9177)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc3436a9-8da8-41ab-919e-6bdbf9943092")
+	)
+	(junction
+		(at 204.5103 90.9177)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f93d9413-efec-4f2b-9d5e-d4fa74f479bb")
+	)
+	(wire
+		(pts
+			(xy 198.0726 90.9177) (xy 193.2898 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028ebaab-277f-42ec-a751-ba61a8040a3f")
+	)
+	(wire
+		(pts
+			(xy 143.3708 90.868) (xy 143.3708 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09d58c0b-250a-4653-a9af-faffbd39ad0e")
+	)
+	(wire
+		(pts
+			(xy 193.2898 93.4577) (xy 193.2898 107.0554)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e6baf4b-9097-4872-9164-a974f085633a")
+	)
+	(wire
+		(pts
+			(xy 143.3708 90.9177) (xy 147.5698 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "171c72b0-1a9c-415a-b40f-c3f3eba67d6a")
+	)
+	(wire
+		(pts
+			(xy 143.3708 77.1964) (xy 143.3708 90.868)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e44d735-b37e-4c88-9a65-bf5d30d8e3de")
+	)
+	(wire
+		(pts
+			(xy 165.3514 77.1964) (xy 143.3708 77.1964)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "338e0e1e-0ca6-4709-af90-859b91f0226b")
+	)
+	(wire
+		(pts
+			(xy 204.5103 90.9177) (xy 209.6714 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f8380be-d99c-4c96-8533-39904df0fdaa")
+	)
+	(wire
+		(pts
+			(xy 198.0726 90.9177) (xy 204.5103 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a70c6c51-e227-489f-9ec0-c18a13481686")
+	)
+	(wire
+		(pts
+			(xy 130.3111 90.868) (xy 143.3708 90.868)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c42cdbb4-4854-414f-9727-c9349e6fde43")
+	)
+	(wire
+		(pts
+			(xy 97.3778 95.9977) (xy 147.5698 95.9977)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c819105c-7d24-4c45-b090-f0bbdfd7bb0d")
+	)
+	(wire
+		(pts
+			(xy 198.0726 77.1964) (xy 198.0726 90.9177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f129e7a1-e6f2-49ea-b168-ede0ed51407e")
+	)
+	(wire
+		(pts
+			(xy 172.9714 77.1964) (xy 198.0726 77.1964)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7bb5dc0-8ce8-4014-aa73-e1b3dd498fd0")
+	)
+	(hierarchical_label "3V3"
+		(shape input)
+		(at 130.3111 90.868 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c5afce6-68a2-4984-bc49-a9fc368711df")
+	)
+	(hierarchical_label "CTRL"
+		(shape input)
+		(at 97.3778 95.9977 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "93933015-7b68-4c75-a2ed-9569cbd8a959")
+	)
+	(hierarchical_label "LD_3V3"
+		(shape input)
+		(at 209.6714 90.9177 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dd5df17c-f09b-447b-9a78-b28fb8a850e2")
+	)
+	(symbol
+		(lib_id "ul_TCK107:TCK108AF_LF")
+		(at 193.2898 90.9177 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0152714a-73f3-462e-ae42-893341bf6725")
+		(property "Reference" "U4"
+			(at 170.4298 81.6901 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TCK107AF_LF"
+			(at 170.4298 84.6835 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PWX-Footprints-SNAP:TCK108AF_LF"
+			(at 170.4298 84.8217 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.2898 90.9177 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 193.2898 90.9177 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10f8b9ba-a625-425f-95c1-9e2026ace3d6")
+		)
+		(pin "2"
+			(uuid "63864bfa-2be4-499b-97e3-ba586cf5080c")
+		)
+		(pin "3"
+			(uuid "500eccca-c079-4761-8493-55e015c5c286")
+		)
+		(pin "4"
+			(uuid "80bec9bd-15f1-47e2-b94e-98bb313127d1")
+		)
+		(pin "5"
+			(uuid "f53afe40-d283-4bbd-8c5a-dea72a0cdf5d")
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780/8f38d770-e530-4b8e-a1a4-da02e6240576"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 169.1614 77.1964 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79c00059-6467-4e07-9fc8-0b894a6f54e0")
+		(property "Reference" "R7"
+			(at 169.1614 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DNP"
+			(at 169.1614 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 169.1614 78.9744 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 169.1614 77.1964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 169.1614 77.1964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b82bad5-bf72-414a-bafa-23e4326e1e38")
+		)
+		(pin "2"
+			(uuid "7ec5de3b-3378-4f0a-a629-b3e52aab0033")
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780/8f38d770-e530-4b8e-a1a4-da02e6240576"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 204.5103 90.9177 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81dc08be-ce35-403f-9dae-423d2dc3fbb0")
+		(property "Reference" "TP1"
+			(at 205.9073 93.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "WDT_LD"
+			(at 205.9073 95.9219 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 199.4303 90.9177 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.4303 90.9177 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.5103 90.9177 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97aee29f-5ee1-4007-980a-d664d0c23e3e")
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780/8f38d770-e530-4b8e-a1a4-da02e6240576"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 193.2898 107.0554 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab83b4cf-195b-4c4b-9565-4b2ddfee8e17")
+		(property "Reference" "#PWR044"
+			(at 193.2898 113.4054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 193.2729 111.4401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.2898 107.0554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.2898 107.0554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.2898 107.0554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f41dd028-6bcd-4bf8-8f5f-3262ce3feee8")
+		)
+		(instances
+			(project "PWX-Schematic Repo"
+				(path "/e45bcff5-6691-4f77-b813-7efcbb908780/8f38d770-e530-4b8e-a1a4-da02e6240576"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

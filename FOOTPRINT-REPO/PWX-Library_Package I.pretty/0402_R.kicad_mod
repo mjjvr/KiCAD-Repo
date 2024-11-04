@@ -1,0 +1,276 @@
+(footprint "0402_R"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.803193 -6.697864 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "08543211-282c-49bf-96c2-258ce455b1ce")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "10K 5%"
+		(at -4.615602 -8.216067 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e0983cb1-418e-4684-b4b1-b9e016bf6009")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e91963f8-3aef-4801-be9a-3b3824429674")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0202294c-80c2-4a59-9e39-b30663691a99")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bae0d778-b4a8-481a-ae1f-605549db5967")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C98220"
+		(at 282.185933 -123.603215 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aeea9ff-9cc4-462d-aa08-2f32b8b84ff3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "YAGEO"
+		(at 282.185933 -123.603215 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b011606-2b42-421d-bd4f-ee05c8899e0e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "RC0603JR-0710KL"
+		(at 282.185933 -123.603215 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc111f79-50cc-41bf-8577-c67a9fb05e16")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "5.46000"
+		(at 282.185933 -123.603215 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2537aa00-76a8-4edf-a3bb-e73caa67a1ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/yageo/RC0603JR-0710KL/726700"
+		(at 282.185933 -123.603215 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1be04277-218f-4fe5-b8a7-a59668d6fbc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -0.85 -0.619998)
+		(end -0.85 0.479999)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dbe2d269-7643-40e3-aa0f-1e271098cb62")
+	)
+	(fp_line
+		(start -0.85 -0.619998)
+		(end 1.450468 -0.619998)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "578d72c3-57fd-4bfd-9850-3767e8565c65")
+	)
+	(fp_line
+		(start -0.85 0.479999)
+		(end 1.450468 0.479999)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bcdfaa6-26df-41fd-a6d6-fdc5516169eb")
+	)
+	(fp_line
+		(start 1.450468 -0.619998)
+		(end 1.450468 0.479999)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9099876-0321-4c92-99a7-4d8ac1856eea")
+	)
+	(fp_line
+		(start -0.85 -0.619998)
+		(end -0.85 0.479999)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "d5ee88da-0a60-4c66-ae9c-01ad1ece8c92")
+	)
+	(fp_line
+		(start -0.85 -0.619998)
+		(end 1.450468 -0.619998)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "5bff191a-143b-4c6f-8fc0-e41db784a54d")
+	)
+	(fp_line
+		(start -0.85 0.479999)
+		(end 1.450468 0.479999)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "f71b5450-73ad-42f3-a079-d5bb4dd45f69")
+	)
+	(fp_line
+		(start 1.450468 -0.619998)
+		(end 1.450468 0.479999)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "d1982b76-6743-473c-9695-0c64cf76496d")
+	)
+	(fp_line
+		(start -0.499765 -0.47006)
+		(end -0.499765 0.329898)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "759fbb3f-5ae9-44e6-8734-8d5a49d84818")
+	)
+	(fp_line
+		(start -0.499765 -0.47006)
+		(end 1.100311 -0.47006)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "57ce06fd-a693-43c5-b02d-7691da14b3d6")
+	)
+	(fp_line
+		(start 1.100311 -0.47006)
+		(end 1.100311 0.329895)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "c7da6a1e-6e0a-4111-ba96-873b9564c461")
+	)
+	(fp_line
+		(start 1.100311 0.329895)
+		(end -0.499765 0.329898)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "d00d06df-5137-4855-b2d1-bf3fbccfc6ed")
+	)
+	(pad "1" smd rect
+		(at -0.399808 -0.07)
+		(size 0.7 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(uuid "07e31d05-3ded-4541-b4bc-59b7bb7e8030")
+	)
+	(pad "2" smd rect
+		(at 1.000194 -0.07)
+		(size 0.7 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(uuid "bc82bfe0-4e0c-4b2d-9a66-9be352586833")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/0402_R.STEP"
+		(offset
+			(xyz 0.00014 -0.000025 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 0)
+		)
+	)
+)

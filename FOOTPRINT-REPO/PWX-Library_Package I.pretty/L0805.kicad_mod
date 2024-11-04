@@ -1,0 +1,237 @@
+(footprint "L0805"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.333573 -0.892354 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2b7f12a9-f85a-482e-9cdf-cf5ed4caa088")
+		(effects
+			(font
+				(size 0.3048 0.3048)
+				(thickness 0.0762)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "15uH"
+		(at -3.8481 -0.9017 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ea4abc09-c872-4de5-95a9-77acc3792545")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6ad2137-1767-44de-9804-fa45858a177f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82483c1d-c3d0-4cd7-8bfb-efc3a34bab96")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4676ae93-9ba1-41b7-80b2-7daeef1aa2d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C57838"
+		(at 96.062954 278.64665 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01707591-4ea4-4632-8304-33f55a96fc6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TDK Corporation"
+		(at 96.062954 278.64665 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e7571f1-667d-456e-9cf0-98329c645768")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "MLF1608C150MTA00"
+		(at 96.062954 278.64665 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2bb8868e-2d50-42b9-8d24-52174faf345b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "8.73000"
+		(at 96.062954 278.64665 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08310eea-e6ee-4c09-a742-1ab61d568ad6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.digikey.ph/en/products/detail/tdk-corporation/MLF1608C150MTA00/2464988"
+		(at 96.062954 278.64665 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d528d16-90c1-4e4b-a167-5a0abff47d37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.349919 -0.775081)
+		(end 1.350081 -0.775081)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d3f67e3-eba9-452d-a248-729b85e33218")
+	)
+	(fp_line
+		(start -1.349919 0.774919)
+		(end -1.349919 -0.775081)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa1fc3be-737b-483d-b4a8-462e2744b509")
+	)
+	(fp_line
+		(start -1.349919 0.774919)
+		(end 1.350081 0.774919)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e463464-94ac-4e58-b9b1-f872c32ce4f6")
+	)
+	(fp_line
+		(start 1.350081 0.774919)
+		(end 1.350081 -0.775081)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8449f49f-0ebf-46e7-a2ec-f12e533c3437")
+	)
+	(fp_line
+		(start -0.99992 -0.625081)
+		(end 1.000082 -0.625081)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "2a40ae7e-fbff-41c6-b339-64cf18e07785")
+	)
+	(fp_line
+		(start -0.99992 0.624919)
+		(end -0.99992 -0.625081)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "d61391e0-7304-4e39-ad72-0a81356afc75")
+	)
+	(fp_line
+		(start -0.99992 0.624919)
+		(end 1.000082 0.624919)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "a0938997-a12e-4172-ac31-49370c0e9111")
+	)
+	(fp_line
+		(start 1.000082 0.624919)
+		(end 1.000082 -0.625081)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "User.1")
+		(uuid "f89d0d09-fa52-4e0a-91f1-ebfe0848bc79")
+	)
+	(pad "1" smd rect
+		(at -0.874919 -0.000081)
+		(size 0.85 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(zone_connect 2)
+		(uuid "14d6d50a-034d-40a2-92ab-9441703d02bf")
+	)
+	(pad "2" smd rect
+		(at 0.87508 -0.000081)
+		(size 0.85 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin -0.05)
+		(uuid "712d6398-fe83-4a3e-a169-3364a2e5ad2e")
+	)
+	(model "${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

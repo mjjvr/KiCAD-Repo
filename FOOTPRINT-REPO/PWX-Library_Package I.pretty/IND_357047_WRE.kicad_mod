@@ -1,0 +1,346 @@
+(footprint "IND_357047_WRE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "74438357047 ")
+	(property "Reference" "REF**"
+		(at 3.73 -0.015 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f3f30157-b762-49fd-9e88-485ada7503bc")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "4.7uH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "dc863840-81b7-4724-9ed0-5787036589eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f0dc0c0-1cf7-4a76-8a04-de4ff06f9b7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1530085a-330d-4c1e-9574-8ed32437a969")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor symbol for simulation only"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3db30f3-180a-45f4-87d6-6f69ea417374")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field2" ""
+		(at 244.566588 -40.862328 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "756e0c6b-a8f9-4658-aba9-a0567a161e3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C167874"
+		(at 244.566588 -40.862328 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d7668d2-a9ce-4afc-a436-0733499d4b20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.39095 2.2733)
+		(end 0.39095 2.2733)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1be6fd71-6a81-4f6a-9226-3a459147540e")
+	)
+	(fp_line
+		(start 0.39095 -2.2733)
+		(end -0.39095 -2.2733)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d238dad-641a-45cd-8d75-2c90b8ebe6a8")
+	)
+	(fp_line
+		(start -2.7559 -2.4003)
+		(end 2.7559 -2.4003)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67245fd1-eb5a-4953-a501-b821a4c0cfb7")
+	)
+	(fp_line
+		(start -2.7559 2.4003)
+		(end -2.7559 -2.4003)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6158bc55-6fa9-4d6e-a722-0f24fb9f0613")
+	)
+	(fp_line
+		(start 2.7559 -2.4003)
+		(end 2.7559 2.4003)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1939011a-e923-4114-bdd1-c6b575f20c00")
+	)
+	(fp_line
+		(start 2.7559 2.4003)
+		(end -2.7559 2.4003)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f5c2b84-7c81-4071-8041-bf071cde6492")
+	)
+	(fp_line
+		(start -2.1463 -2.1463)
+		(end -2.1463 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d47ee00-4004-40dd-82f3-2c504d56f0b7")
+	)
+	(fp_line
+		(start -2.1463 -2.1463)
+		(end -2.1463 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9524618c-6ffd-4ad4-8b00-bccba41575a1")
+	)
+	(fp_line
+		(start -2.1463 2.1463)
+		(end -0.6985 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e7e41680-e71d-404c-bc08-3056ce93698f")
+	)
+	(fp_line
+		(start -2.1463 2.1463)
+		(end 2.1463 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af18cbe5-cb7d-43c7-8596-e3c133c0d453")
+	)
+	(fp_line
+		(start -0.6985 -2.1463)
+		(end -2.1463 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "feacb414-bb99-48ef-91df-0fc0b5eaa50e")
+	)
+	(fp_line
+		(start -0.6985 2.1463)
+		(end -0.6985 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "96773627-acb5-4c1e-acbf-9a7104800357")
+	)
+	(fp_line
+		(start 0.6985 -2.1463)
+		(end 0.6985 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ba64e11-32a1-4d3f-8835-0250b61d9614")
+	)
+	(fp_line
+		(start 0.6985 2.1463)
+		(end 2.1463 2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4df2507e-f2ea-4c92-ad84-cf8799175688")
+	)
+	(fp_line
+		(start 2.1463 -2.1463)
+		(end -2.1463 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e38bcaa5-21d2-47a5-9b5e-451b15ef0d57")
+	)
+	(fp_line
+		(start 2.1463 -2.1463)
+		(end 0.6985 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0f8287e6-02bd-44a3-836b-d0adee3c9993")
+	)
+	(fp_line
+		(start 2.1463 2.1463)
+		(end 2.1463 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "74d8e6f7-b5b7-4de1-8708-3fd6b19aa77a")
+	)
+	(fp_line
+		(start 2.1463 2.1463)
+		(end 2.1463 -2.1463)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3ab8b5a-e1ea-4724-803c-599ad53ca96f")
+	)
+	(fp_circle
+		(center -1.4732 0)
+		(end -1.4732 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "f4329989-8078-4802-8b24-50665ac062b8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4f868d8c-f8f1-4cbe-95a9-e2028809a582")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.6002 0)
+		(size 1.8034 4.2926)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e5270a2f-d0c1-4d6a-a475-581c3394f39a")
+	)
+	(pad "2" smd rect
+		(at 1.6002 0)
+		(size 1.8034 4.2926)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6781c3d3-904c-4bda-92e7-59ff157a56d4")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "cf9fce3f-3a85-4ca3-9975-942cf0a02ba2")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 243.918888 -42.957828) (xy 245.214288 -42.957828) (xy 245.214288 -38.766828) (xy 243.918888 -38.766828)
+			)
+		)
+	)
+	(model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_Wuerth_MAPI-3012.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1.6 1.5 1.8)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
